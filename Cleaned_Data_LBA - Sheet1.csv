@@ -1,0 +1,1020 @@
+product ,Price,Grocery store,Location,District
+Apples,69.9,Carrefour,"Carrefour Market, Av. Corrientes 1160, 1043 CABA, Argentina",Palermo
+Apples,74.99,Supermercados Día,"Supermercados Día, Av. Corrientes 3534, C1194 AAO, Buenos Aires, Argentina",Almagro
+Apples,80,Jumbo,"Jumbo, Av. Santa Fe 4950, C1425 BHY, Buenos Aires, Argentina",Palermo
+Apples,69,Jumbo,"Jumbo, Guardia Vieja 4558, C1192 CABA, Argentina",Palermo
+Apples,,Supermercados Día,"Supermercados Día, Buenos Aires, Paraguay 788, C1057 AAJ, Argentina",Retiro
+Apples,,Supermercados Día,"Supermercados Día, Buenos Aires, Defensa 748, C1065 AAN, Argentina",Villa Crespo
+Apples,32,Carrefour,"235, New Taipei City, Zhonghe District, Section 2, Zhongshan Road, 295號B1",Zhonghe District
+Apples,70,Carrefour,"Carrefour, No. 1, Guilin Road, Wanhua District, Taipei City, Taiwan 108",Wanhua District
+Apples,78,Carrefour,"Carrefour, 100, Taiwan, Taipei City, Zhongzheng District, Section 2, Jinan Road, 46號B1",Zhonghe District
+Apples,46,Carrefour,"Carrefour, No. 276號, Jinzhou Street, Zhongshan District, Taipei City, Taiwan 10477",Zhonghe District
+Apples,110,Carrefour,"Carrefour, No. 499-1, Zhonghe Road, Yonghe District, New Taipei City, Taiwan 234",Yonghe Distric
+Apples,79.99,Supermercados Día,"Sarmiento 3978, C1425 FGQ, Argentina",Almagro
+Apples,69.9,Carrefour,"Arenales 870, C1061 CABA",Retiro
+Apples,86,Carrefour,"Carrefour Market, Av. Santa Fe 1954, C1123 CABA, Argentina",Recoleta 
+Apples,79.99,Supermercados Día,"Carrefour Market, Vicente López 1676, C1018 ABB, Buenos Aires, Argentina",Retiro
+Apples,98.7,Jumbo,"Supermercados Día, Fitz Roy 2292, C1425 FVD, Buenos Aires, Argentina",Palermo
+Apples,69.99,Supermercados Día,"Av. Acoyte 702, C1405 BGS, Buenos Aires",Caballito 
+Apples,54,Supermercados Día,"Supermercados Día, Av. Rivadavia 3566, C1204 AAN, Buenos Aires, Argentina",Almagro
+Apples,72.4,Carrefour,"Av. Gaona 1290, Buenos Aires",Caballito 
+Apples,73.99,Supermercados Día,"Carrefour Market, Av. Córdoba 1631, C1055 CABA, Argentina",Retiro
+Apples,159,Supermercados Día,"Supermercados Día, Av. Rivadavia 674, C1002 AAR, Buenos Aires, Argentina",Monserrat
+Apples,60,Carrefour,"Supermercados Día, Buenos Aires, Raúl Scalabrini Ortíz 3170, C1425 DBZ, Argentina",Palermo
+Apples,69,Carrefour,"Carrefour Market, Raúl Scalabrini Ortíz 3128, C1425 CABA, Argentina",Palermo
+Apples,54,Jumbo,"Av. Córdoba 2529, C1120 CABA",Recoleta 
+Apples,80,Supermercados Día,"Av. Gral. Las Heras 2564, C1425ASP CABA",Recoleta 
+Apples,75,Supermercados Día,"Supermercados Día, Av. Rivadavia 1177, C1033 AAB, Buenos Aires, Argentina",Monserrat
+Apples,50,Carrefour,"Supermercados Día, C1426AJS AJS, Amenábar 1145, C1426 Buenos Aires, Argentina",Colegiales
+Apples,79.99,Supermercados Día,"Carrefour Market, Av. Rivadavia 3221, C1179 CABA, Argentina",Almagro
+Apples,159,Jumbo,"Supermercados Día, Junín 638, C1026 ABN, Buenos Aires, Argentina",Monserrat
+Apples,84,Carrefour,"Jumba, Av. Cerviño 4860, C1425 AIO, Buenos Aires, Argentina",Palermo
+Apples,120,Carrefour,"Carrefour Market, Av. Rivadavia 2243, C1034 CABA, Argentina",Monserrat
+Apples,69.9,Carrefour,"Av. Santa Fe 3368, C1425 CABA",Palermo
+Apples,86,Carrefour,"Carrefour Market, Raúl Scalabrini Ortíz 1840, C1414 CABA, Argentina",Palermo
+Apples,,Carrefour,"Carrefour Market, Av. Corrientes 1160, 1043 CABA, Argentina",Palermo
+Apples,,Supermercados Día,"Supermercados Día, Av. Corrientes 3534, C1194 AAO, Buenos Aires, Argentina",Almagro
+Apples,,Jumbo,"Supermercados Día, Av. Corrientes 3534, C1194 AAO, Buenos Aires, Argentina",Palermo
+Apples,89,Jumbo,"Jumbo, Av. Santa Fe 4950, C1425 BHY, Buenos Aires, Argentina",Palermo
+Apples,,Supermercados Día,"Jumbo, Guardia Vieja 4558, C1192 CABA, Argentina",Retiro
+Apples,,Supermercados Día,"Supermercados Día, Buenos Aires, Paraguay 788, C1057 AAJ, Argentina",Villa Crespo
+Apples,40,Carrefour,"Supermercados Día, Buenos Aires, Defensa 748, C1065 AAN, Argentina",Zhonghe District
+Apples,118,Carrefour,"235, New Taipei City, Zhonghe District, Section 2, Zhongshan Road, 295號B1",Wanhua District
+Apples,50,Carrefour,"Carrefour, No. 1, Guilin Road, Wanhua District, Taipei City, Taiwan 108",Zhonghe District
+Apples,74,Carrefour,"Carrefour, 100, Taiwan, Taipei City, Zhongzheng District, Section 2, Jinan Road, 46號B1",Zhonghe District
+Apples,58,Carrefour,"Carrefour, No. 276號, Jinzhou Street, Zhongshan District, Taipei City, Taiwan 10477",Yonghe Distric
+Apples,,Supermercados Día,"Carrefour, No. 499-1, Zhonghe Road, Yonghe District, New Taipei City, Taiwan 234",Almagro
+Apples,,,"Sarmiento 3978, C1425 FGQ, Argentina",Retiro
+Apples,,Jumbo,,Recoleta 
+Apples,86,Carrefour,"Arenales 870, C1061 CABA",Retiro
+Apples,69,Carrefour,"Carrefour Market, Av. Santa Fe 1954, C1123 CABA, Argentina",Palermo
+Apples,,Supermercados Día,"Carrefour Market, Vicente López 1676, C1018 ABB, Buenos Aires, Argentina",Caballito 
+Apples,54,Jumbo,"Supermercados Día, Fitz Roy 2292, C1425 FVD, Buenos Aires, Argentina",Almagro
+Apples,,Supermercados Día,"Av. Acoyte 702, C1405 BGS, Buenos Aires",Caballito 
+Apples,70,Supermercados Día,"Supermercados Día, Av. Rivadavia 3566, C1204 AAN, Buenos Aires, Argentina",Retiro
+Apples,76,Carrefour,"Av. Gaona 1290, Buenos Aires",Monserrat
+Apples,,Supermercados Día,"Carrefour Market, Av. Córdoba 1631, C1055 CABA, Argentina",Palermo
+Apples,54,Supermercados Día,"Supermercados Día, Av. Rivadavia 674, C1002 AAR, Buenos Aires, Argentina",Palermo
+Apples,,Carrefour,"Supermercados Día, Buenos Aires, Raúl Scalabrini Ortíz 3170, C1425 DBZ, Argentina",Recoleta 
+Apples,50,Carrefour,"Carrefour Market, Raúl Scalabrini Ortíz 3128, C1425 CABA, Argentina",Recoleta 
+Apples,98,Jumbo,"Av. Córdoba 2529, C1120 CABA",Monserrat
+Apples,,Supermercados Día,"Av. Gral. Las Heras 2564, C1425ASP CABA",Colegiales
+Apples,74,Supermercados Día,"Supermercados Día, Av. Rivadavia 1177, C1033 AAB, Buenos Aires, Argentina",Almagro
+Apples,89.9,Carrefour,"Supermercados Día, C1426AJS AJS, Amenábar 1145, C1426 Buenos Aires, Argentina",Monserrat
+Apples,99.99,Supermercados Día,"Carrefour Market, Av. Rivadavia 3221, C1179 CABA, Argentina",Palermo
+Apples,54,Jumbo,"Supermercados Día, Junín 638, C1026 ABN, Buenos Aires, Argentina",Monserrat
+Apples,69,Carrefour,"Jumba, Av. Cerviño 4860, C1425 AIO, Buenos Aires, Argentina",Palermo
+Apples,86,Carrefour,"Carrefour Market, Av. Rivadavia 2243, C1034 CABA, Argentina",Palermo
+Apples,50,Grocery store,"Av. Santa Fe 3368, C1425 CABA",Palermo
+Apples,,Carrefour,"Carrefour Market, Raúl Scalabrini Ortíz 1840, C1414 CABA, Argentina",Almagro
+Apples,,Supermercados Día,"Carrefour Market, Av. Corrientes 1160, 1043 CABA, Argentina",Palermo
+Apples,159,Jumbo,"Supermercados Día, Av. Corrientes 3534, C1194 AAO, Buenos Aires, Argentina",
+Apples,,Jumbo,"Jumbo, Av. Santa Fe 4950, C1425 BHY, Buenos Aires, Argentina",Retiro
+Apples,,Supermercados Día,"Jumbo, Guardia Vieja 4558, C1192 CABA, Argentina",Villa Crespo
+Apples,78,Supermercados Día,"Supermercados Día, Buenos Aires, Paraguay 788, C1057 AAJ, Argentina",Zhonghe District
+Apples,26,Carrefour,"Supermercados Día, Buenos Aires, Defensa 748, C1065 AAN, Argentina",Wanhua District
+Apples,30,Carrefour,"235, New Taipei City, Zhonghe District, Section 2, Zhongshan Road, 295號B1",Zhonghe District
+Apples,78,Carrefour,"Carrefour, No. 1, Guilin Road, Wanhua District, Taipei City, Taiwan 108",Zhonghe District
+Apples,78,Carrefour,"Carrefour, 100, Taiwan, Taipei City, Zhongzheng District, Section 2, Jinan Road, 46號B1",Yonghe Distric
+Apples,,Carrefour,"Carrefour, No. 276號, Jinzhou Street, Zhongshan District, Taipei City, Taiwan 10477",Almagro
+Apples,,Supermercados Día,"Carrefour, No. 499-1, Zhonghe Road, Yonghe District, New Taipei City, Taiwan 234",Retiro
+Apples,,,"Sarmiento 3978, C1425 FGQ, Argentina",Recoleta 
+Apples,120,Jumbo,,Retiro
+Apples,50,Carrefour,"Arenales 870, C1061 CABA",Palermo
+Apples,,Carrefour,"Carrefour Market, Av. Santa Fe 1954, C1123 CABA, Argentina",Caballito 
+Apples,72,Supermercados Día,"Carrefour Market, Vicente López 1676, C1018 ABB, Buenos Aires, Argentina",Almagro
+Apples,,Jumbo,"Supermercados Día, Fitz Roy 2292, C1425 FVD, Buenos Aires, Argentina",Caballito 
+Apples,51,Supermercados Día,"Av. Acoyte 702, C1405 BGS, Buenos Aires",Retiro
+Apples,,Supermercados Día,"Supermercados Día, Av. Rivadavia 3566, C1204 AAN, Buenos Aires, Argentina",Monserrat
+Apples,,Carrefour,"Av. Gaona 1290, Buenos Aires",Palermo
+Apples,,Supermercados Día,"Carrefour Market, Av. Córdoba 1631, C1055 CABA, Argentina",Palermo
+Apples,,Supermercados Día,"Supermercados Día, Av. Rivadavia 674, C1002 AAR, Buenos Aires, Argentina",Recoleta 
+Apples,,Carrefour,"Supermercados Día, Buenos Aires, Raúl Scalabrini Ortíz 3170, C1425 DBZ, Argentina",Recoleta 
+Apples,,Carrefour,"Carrefour Market, Raúl Scalabrini Ortíz 3128, C1425 CABA, Argentina",Monserrat
+Apples,,Jumbo,"Av. Córdoba 2529, C1120 CABA",Colegiales
+Apples,,Supermercados Día,"Av. Gral. Las Heras 2564, C1425ASP CABA",Almagro
+Apples,86,Supermercados Día,"Supermercados Día, Av. Rivadavia 1177, C1033 AAB, Buenos Aires, Argentina",Monserrat
+Apples,,Carrefour,"Supermercados Día, C1426AJS AJS, Amenábar 1145, C1426 Buenos Aires, Argentina",Palermo
+Apples,,Supermercados Día,"Carrefour Market, Av. Rivadavia 3221, C1179 CABA, Argentina",Monserrat
+Apples,,Jumbo,"Supermercados Día, Junín 638, C1026 ABN, Buenos Aires, Argentina",Palermo
+Apples,69.9,Carrefour,"Jumba, Av. Cerviño 4860, C1425 AIO, Buenos Aires, Argentina",Palermo
+Apples,,Carrefour,"Carrefour Market, Av. Rivadavia 2243, C1034 CABA, Argentina",Palermo
+Apples,,Carrefour,"Av. Santa Fe 3368, C1425 CABA",Almagro
+Bananas,94.9,Carrefour,"Carrefour Market, Raúl Scalabrini Ortíz 1840, C1414 CABA, Argentina",Palermo
+Bananas,,Supermercados Día,"Carrefour Market, Av. Corrientes 1160, 1043 CABA, Argentina",
+Bananas,84,Jumbo,"Supermercados Día, Av. Corrientes 3534, C1194 AAO, Buenos Aires, Argentina",Retiro
+Bananas,84,Jumbo,"Jumbo, Av. Santa Fe 4950, C1425 BHY, Buenos Aires, Argentina",Villa Crespo
+Bananas,,Supermercados Día,"Jumbo, Guardia Vieja 4558, C1192 CABA, Argentina",Zhonghe District
+Bananas,,Supermercados Día,"Supermercados Día, Buenos Aires, Paraguay 788, C1057 AAJ, Argentina",Wanhua District
+Bananas,60,Carrefour,"Supermercados Día, Buenos Aires, Defensa 748, C1065 AAN, Argentina",Zhonghe District
+Bananas,78,Carrefour,"235, New Taipei City, Zhonghe District, Section 2, Zhongshan Road, 295號B1",Zhonghe District
+Bananas,10,Carrefour,"Carrefour, No. 1, Guilin Road, Wanhua District, Taipei City, Taiwan 108",Yonghe Distric
+Bananas,10,Carrefour,"Carrefour, 100, Taiwan, Taipei City, Zhongzheng District, Section 2, Jinan Road, 46號B1",Almagro
+Bananas,88,Carrefour,"Carrefour, No. 276號, Jinzhou Street, Zhongshan District, Taipei City, Taiwan 10477",Retiro
+Bananas,94.99,Supermercados Día,"Carrefour, No. 499-1, Zhonghe Road, Yonghe District, New Taipei City, Taiwan 234",Recoleta 
+Bananas,,,"Sarmiento 3978, C1425 FGQ, Argentina",Retiro
+Bananas,99,Jumbo,,Palermo
+Bananas,94.9,Carrefour,"Arenales 870, C1061 CABA",Caballito 
+Bananas,94,Carrefour,"Carrefour Market, Av. Santa Fe 1954, C1123 CABA, Argentina",Almagro
+Bananas,95,Supermercados Día,"Carrefour Market, Vicente López 1676, C1018 ABB, Buenos Aires, Argentina",Caballito 
+Bananas,84,Jumbo,"Supermercados Día, Fitz Roy 2292, C1425 FVD, Buenos Aires, Argentina",Retiro
+Bananas,94.99,Supermercados Día,"Av. Acoyte 702, C1405 BGS, Buenos Aires",Monserrat
+Bananas,84,Supermercados Día,"Supermercados Día, Av. Rivadavia 3566, C1204 AAN, Buenos Aires, Argentina",Palermo
+Bananas,102.1,Carrefour,"Av. Gaona 1290, Buenos Aires",Palermo
+Bananas,101.49,Supermercados Día,"Carrefour Market, Av. Córdoba 1631, C1055 CABA, Argentina",Recoleta 
+Bananas,99,Supermercados Día,"Supermercados Día, Av. Rivadavia 674, C1002 AAR, Buenos Aires, Argentina",Recoleta 
+Bananas,99,Carrefour,"Supermercados Día, Buenos Aires, Raúl Scalabrini Ortíz 3170, C1425 DBZ, Argentina",Monserrat
+Bananas,94.9,Carrefour,"Carrefour Market, Raúl Scalabrini Ortíz 3128, C1425 CABA, Argentina",Colegiales
+Bananas,84,Jumbo,"Av. Córdoba 2529, C1120 CABA",Almagro
+Bananas,95,Supermercados Día,"Av. Gral. Las Heras 2564, C1425ASP CABA",Monserrat
+Bananas,93,Supermercados Día,"Supermercados Día, Av. Rivadavia 1177, C1033 AAB, Buenos Aires, Argentina",Palermo
+Bananas,94.9,Carrefour,"Supermercados Día, C1426AJS AJS, Amenábar 1145, C1426 Buenos Aires, Argentina",Monserrat
+Bananas,75.99,Supermercados Día,"Carrefour Market, Av. Rivadavia 3221, C1179 CABA, Argentina",Palermo
+Bananas,84,Jumbo,"Supermercados Día, Junín 638, C1026 ABN, Buenos Aires, Argentina",Palermo
+Bananas,94,Carrefour,"Jumba, Av. Cerviño 4860, C1425 AIO, Buenos Aires, Argentina",Palermo
+Bananas,94.9,Carrefour,"Carrefour Market, Av. Rivadavia 2243, C1034 CABA, Argentina",Almagro
+Bananas,94.9,Carrefour,"Av. Santa Fe 3368, C1425 CABA",Palermo
+ Bananas,,Carrefour,"Carrefour Market, Raúl Scalabrini Ortíz 1840, C1414 CABA, Argentina",
+ Bananas,,Supermercados Día,"Carrefour Market, Av. Corrientes 1160, 1043 CABA, Argentina",Retiro
+ Bananas,,Jumbo,"Supermercados Día, Av. Corrientes 3534, C1194 AAO, Buenos Aires, Argentina",Villa Crespo
+ Bananas,,Jumbo,"Jumbo, Av. Santa Fe 4950, C1425 BHY, Buenos Aires, Argentina",Zhonghe District
+ Bananas,,Supermercados Día,"Jumbo, Guardia Vieja 4558, C1192 CABA, Argentina",Wanhua District
+ Bananas,,Supermercados Día,"Supermercados Día, Buenos Aires, Paraguay 788, C1057 AAJ, Argentina",Zhonghe District
+ Bananas,112,Carrefour,"Supermercados Día, Buenos Aires, Defensa 748, C1065 AAN, Argentina",Zhonghe District
+ Bananas,178,Carrefour,"235, New Taipei City, Zhonghe District, Section 2, Zhongshan Road, 295號B1",Yonghe Distric
+ Bananas,138,Carrefour,"Carrefour, No. 1, Guilin Road, Wanhua District, Taipei City, Taiwan 108",Almagro
+ Bananas,118,Carrefour,"Carrefour, 100, Taiwan, Taipei City, Zhongzheng District, Section 2, Jinan Road, 46號B1",Retiro
+ Bananas,118,Carrefour,"Carrefour, No. 276號, Jinzhou Street, Zhongshan District, Taipei City, Taiwan 10477",Recoleta 
+ Bananas,,Supermercados Día,"Carrefour, No. 499-1, Zhonghe Road, Yonghe District, New Taipei City, Taiwan 234",Retiro
+ Bananas,,,"Sarmiento 3978, C1425 FGQ, Argentina",Palermo
+ Bananas,,Jumbo,,Caballito 
+ Bananas,,Carrefour,"Arenales 870, C1061 CABA",Almagro
+ Bananas,,Carrefour,"Carrefour Market, Av. Santa Fe 1954, C1123 CABA, Argentina",Caballito 
+ Bananas,,Supermercados Día,"Carrefour Market, Vicente López 1676, C1018 ABB, Buenos Aires, Argentina",Retiro
+ Bananas,92,Jumbo,"Supermercados Día, Fitz Roy 2292, C1425 FVD, Buenos Aires, Argentina",Monserrat
+ Bananas,,Supermercados Día,"Av. Acoyte 702, C1405 BGS, Buenos Aires",Palermo
+ Bananas,70,Supermercados Día,"Supermercados Día, Av. Rivadavia 3566, C1204 AAN, Buenos Aires, Argentina",Palermo
+ Bananas,,Carrefour,"Av. Gaona 1290, Buenos Aires",Recoleta 
+ Bananas,,Supermercados Día,"Carrefour Market, Av. Córdoba 1631, C1055 CABA, Argentina",Recoleta 
+ Bananas,,Supermercados Día,"Supermercados Día, Av. Rivadavia 674, C1002 AAR, Buenos Aires, Argentina",Monserrat
+ Bananas,,Carrefour,"Supermercados Día, Buenos Aires, Raúl Scalabrini Ortíz 3170, C1425 DBZ, Argentina",Colegiales
+ Bananas,,Carrefour,"Carrefour Market, Raúl Scalabrini Ortíz 3128, C1425 CABA, Argentina",Almagro
+ Bananas,,Jumbo,"Av. Córdoba 2529, C1120 CABA",Monserrat
+ Bananas,,Supermercados Día,"Av. Gral. Las Heras 2564, C1425ASP CABA",Palermo
+ Bananas,95,Supermercados Día,"Supermercados Día, Av. Rivadavia 1177, C1033 AAB, Buenos Aires, Argentina",Monserrat
+Bananas,,Supermercados Día,"Supermercados Día, C1426AJS AJS, Amenábar 1145, C1426 Buenos Aires, Argentina",Palermo
+Bananas,,Jumbo,"Carrefour Market, Av. Rivadavia 3221, C1179 CABA, Argentina",Palermo
+Bananas,,Carrefour,"Supermercados Día, Junín 638, C1026 ABN, Buenos Aires, Argentina",Palermo
+Bananas,,Carrefour,"Jumba, Av. Cerviño 4860, C1425 AIO, Buenos Aires, Argentina",Almagro
+Bananas,,Carrefour,"Carrefour Market, Av. Rivadavia 2243, C1034 CABA, Argentina",Palermo
+Bananas,,Grocery store,"Av. Santa Fe 3368, C1425 CABA",
+Bananas,150,Carrefour,"Carrefour Market, Raúl Scalabrini Ortíz 1840, C1414 CABA, Argentina",Retiro
+Bananas,,Supermercados Día,"Carrefour Market, Av. Corrientes 1160, 1043 CABA, Argentina",Villa Crespo
+Bananas,118,Jumbo,"Supermercados Día, Av. Corrientes 3534, C1194 AAO, Buenos Aires, Argentina",Zhonghe District
+Bananas,,Jumbo,"Jumbo, Av. Santa Fe 4950, C1425 BHY, Buenos Aires, Argentina",Wanhua District
+Bananas,,Supermercados Día,"Jumbo, Guardia Vieja 4558, C1192 CABA, Argentina",Zhonghe District
+Bananas,,Supermercados Día,"Supermercados Día, Buenos Aires, Paraguay 788, C1057 AAJ, Argentina",Zhonghe District
+Bananas,,Carrefour,"Supermercados Día, Buenos Aires, Defensa 748, C1065 AAN, Argentina",Yonghe Distric
+Bananas,,Carrefour,"235, New Taipei City, Zhonghe District, Section 2, Zhongshan Road, 295號B1",Almagro
+Bananas,,Carrefour,"Carrefour, No. 1, Guilin Road, Wanhua District, Taipei City, Taiwan 108",Retiro
+Bananas,,Carrefour,"Carrefour, 100, Taiwan, Taipei City, Zhongzheng District, Section 2, Jinan Road, 46號B1",Recoleta 
+Bananas,,Carrefour,"Carrefour, No. 276號, Jinzhou Street, Zhongshan District, Taipei City, Taiwan 10477",Retiro
+Bananas,84,Supermercados Día,"Carrefour, No. 499-1, Zhonghe Road, Yonghe District, New Taipei City, Taiwan 234",Palermo
+Bananas,,,"Sarmiento 3978, C1425 FGQ, Argentina",Caballito 
+Bananas,92,Jumbo,,Almagro
+Bananas,,Carrefour,"Arenales 870, C1061 CABA",Caballito 
+Bananas,,Carrefour,"Carrefour Market, Av. Santa Fe 1954, C1123 CABA, Argentina",Retiro
+Bananas,,Supermercados Día,"Carrefour Market, Vicente López 1676, C1018 ABB, Buenos Aires, Argentina",Monserrat
+Bananas,,Jumbo,"Supermercados Día, Fitz Roy 2292, C1425 FVD, Buenos Aires, Argentina",Palermo
+Bananas,,Supermercados Día,"Av. Acoyte 702, C1405 BGS, Buenos Aires",Palermo
+Bananas,,Supermercados Día,"Supermercados Día, Av. Rivadavia 3566, C1204 AAN, Buenos Aires, Argentina",Recoleta 
+Bananas,,Carrefour,"Av. Gaona 1290, Buenos Aires",Recoleta 
+Bananas,,Supermercados Día,"Carrefour Market, Av. Córdoba 1631, C1055 CABA, Argentina",Monserrat
+Bananas,,Supermercados Día,"Supermercados Día, Av. Rivadavia 674, C1002 AAR, Buenos Aires, Argentina",Colegiales
+Bananas,,Carrefour,"Supermercados Día, Buenos Aires, Raúl Scalabrini Ortíz 3170, C1425 DBZ, Argentina",Almagro
+Bananas,,Carrefour,"Carrefour Market, Raúl Scalabrini Ortíz 3128, C1425 CABA, Argentina",Monserrat
+Bananas,,Jumbo,"Av. Córdoba 2529, C1120 CABA",Palermo
+Bananas,,Supermercados Día,"Av. Gral. Las Heras 2564, C1425ASP CABA",Monserrat
+Bananas,,Supermercados Día,"Supermercados Día, Av. Rivadavia 1177, C1033 AAB, Buenos Aires, Argentina",Palermo
+Bananas,,Carrefour,"Supermercados Día, C1426AJS AJS, Amenábar 1145, C1426 Buenos Aires, Argentina",Palermo
+Bananas,,Supermercados Día,"Carrefour Market, Av. Rivadavia 3221, C1179 CABA, Argentina",Palermo
+Bananas,,Jumbo,"Supermercados Día, Junín 638, C1026 ABN, Buenos Aires, Argentina",Almagro
+Bananas,,Carrefour,"Jumba, Av. Cerviño 4860, C1425 AIO, Buenos Aires, Argentina",Palermo
+Bananas,,Carrefour,"Carrefour Market, Av. Rivadavia 2243, C1034 CABA, Argentina",
+Bananas,,Carrefour,"Av. Santa Fe 3368, C1425 CABA",Retiro
+Tomatoes,84.9,Carrefour,"Carrefour Market, Raúl Scalabrini Ortíz 1840, C1414 CABA, Argentina",Villa Crespo
+Tomatoes,92.99,Supermercados Día,"Carrefour Market, Av. Corrientes 1160, 1043 CABA, Argentina",Zhonghe District
+Tomatoes,99,Jumbo,"Supermercados Día, Av. Corrientes 3534, C1194 AAO, Buenos Aires, Argentina",Wanhua District
+Tomatoes,99,Jumbo,"Jumbo, Av. Santa Fe 4950, C1425 BHY, Buenos Aires, Argentina",Zhonghe District
+Tomatoes,,Supermercados Día,"Jumbo, Guardia Vieja 4558, C1192 CABA, Argentina",Zhonghe District
+Tomatoes,,Supermercados Día,"Supermercados Día, Buenos Aires, Paraguay 788, C1057 AAJ, Argentina",Yonghe Distric
+Tomatoes,138,Carrefour,"Supermercados Día, Buenos Aires, Defensa 748, C1065 AAN, Argentina",Almagro
+Tomatoes,118,Carrefour,"235, New Taipei City, Zhonghe District, Section 2, Zhongshan Road, 295號B1",Retiro
+Tomatoes,78,Carrefour,"Carrefour, No. 1, Guilin Road, Wanhua District, Taipei City, Taiwan 108",Recoleta 
+Tomatoes,118,Carrefour,"Carrefour, 100, Taiwan, Taipei City, Zhongzheng District, Section 2, Jinan Road, 46號B1",Retiro
+Tomatoes,118,Carrefour,"Carrefour, No. 276號, Jinzhou Street, Zhongshan District, Taipei City, Taiwan 10477",Palermo
+Tomatoes,92.99,Supermercados Día,"Carrefour, No. 499-1, Zhonghe Road, Yonghe District, New Taipei City, Taiwan 234",Caballito 
+Tomatoes,,,"Sarmiento 3978, C1425 FGQ, Argentina",Almagro
+Tomatoes,109,Jumbo,,Caballito 
+Tomatoes,84.9,Carrefour,"Arenales 870, C1061 CABA",Retiro
+Tomatoes,84.9,Carrefour,"Carrefour Market, Av. Santa Fe 1954, C1123 CABA, Argentina",Monserrat
+Tomatoes,87,Supermercados Día,"Carrefour Market, Vicente López 1676, C1018 ABB, Buenos Aires, Argentina",Palermo
+Tomatoes,110,Jumbo,"Supermercados Día, Fitz Roy 2292, C1425 FVD, Buenos Aires, Argentina",Palermo
+Tomatoes,95.99,Supermercados Día,"Av. Acoyte 702, C1405 BGS, Buenos Aires",Recoleta 
+Tomatoes,109,Supermercados Día,"Supermercados Día, Av. Rivadavia 3566, C1204 AAN, Buenos Aires, Argentina",Recoleta 
+Tomatoes,91.4,Carrefour,"Av. Gaona 1290, Buenos Aires",Monserrat
+Tomatoes,92.99,Supermercados Día,"Carrefour Market, Av. Córdoba 1631, C1055 CABA, Argentina",Colegiales
+Tomatoes,109,Supermercados Día,"Supermercados Día, Av. Rivadavia 674, C1002 AAR, Buenos Aires, Argentina",Almagro
+Tomatoes,110,Carrefour,"Supermercados Día, Buenos Aires, Raúl Scalabrini Ortíz 3170, C1425 DBZ, Argentina",Monserrat
+Tomatoes,30,Carrefour,"Carrefour Market, Raúl Scalabrini Ortíz 3128, C1425 CABA, Argentina",Palermo
+Tomatoes,110,Jumbo,"Av. Córdoba 2529, C1120 CABA",Monserrat
+Tomatoes,16,Supermercados Día,"Av. Gral. Las Heras 2564, C1425ASP CABA",Palermo
+Tomatoes,15,Supermercados Día,"Supermercados Día, Av. Rivadavia 1177, C1033 AAB, Buenos Aires, Argentina",Palermo
+Tomatoes,84.9,Carrefour,"Supermercados Día, C1426AJS AJS, Amenábar 1145, C1426 Buenos Aires, Argentina",Palermo
+Tomatoes,95.99,Supermercados Día,"Carrefour Market, Av. Rivadavia 3221, C1179 CABA, Argentina",Almagro
+Tomatoes,110,Jumbo,"Supermercados Día, Junín 638, C1026 ABN, Buenos Aires, Argentina",Palermo
+Tomatoes,115,Carrefour,"Jumba, Av. Cerviño 4860, C1425 AIO, Buenos Aires, Argentina",
+Tomatoes,84.9,Carrefour,"Carrefour Market, Av. Rivadavia 2243, C1034 CABA, Argentina",Retiro
+Tomatoes,84.9,Carrefour,"Av. Santa Fe 3368, C1425 CABA",Villa Crespo
+Tomatoes,,Carrefour,"Carrefour Market, Raúl Scalabrini Ortíz 1840, C1414 CABA, Argentina",Zhonghe District
+Tomatoes,92.99,Supermercados Día,"Carrefour Market, Av. Corrientes 1160, 1043 CABA, Argentina",Wanhua District
+Tomatoes,139,Jumbo,"Supermercados Día, Av. Corrientes 3534, C1194 AAO, Buenos Aires, Argentina",Zhonghe District
+Tomatoes,109,Jumbo,"Jumbo, Av. Santa Fe 4950, C1425 BHY, Buenos Aires, Argentina",Zhonghe District
+Tomatoes,,Supermercados Día,"Jumbo, Guardia Vieja 4558, C1192 CABA, Argentina",Yonghe Distric
+Tomatoes,,Supermercados Día,"Supermercados Día, Buenos Aires, Paraguay 788, C1057 AAJ, Argentina",Almagro
+Tomatoes,118,Carrefour,"Supermercados Día, Buenos Aires, Defensa 748, C1065 AAN, Argentina",Retiro
+Tomatoes,198,Carrefour,"235, New Taipei City, Zhonghe District, Section 2, Zhongshan Road, 295號B1",Recoleta 
+Tomatoes,118,Carrefour,"Carrefour, No. 1, Guilin Road, Wanhua District, Taipei City, Taiwan 108",Retiro
+Tomatoes,13,Carrefour,"Carrefour, 100, Taiwan, Taipei City, Zhongzheng District, Section 2, Jinan Road, 46號B1",Palermo
+Tomatoes,98,Carrefour,"Carrefour, No. 276號, Jinzhou Street, Zhongshan District, Taipei City, Taiwan 10477",Caballito 
+Tomatoes,188.99,Supermercados Día,"Carrefour, No. 499-1, Zhonghe Road, Yonghe District, New Taipei City, Taiwan 234",Almagro
+Tomatoes,,,"Sarmiento 3978, C1425 FGQ, Argentina",Caballito 
+Tomatoes,110,Jumbo,,Retiro
+Tomatoes,84.9,Carrefour,"Arenales 870, C1061 CABA",Monserrat
+Tomatoes,,Carrefour,"Carrefour Market, Av. Santa Fe 1954, C1123 CABA, Argentina",Palermo
+Tomatoes,,Supermercados Día,"Carrefour Market, Vicente López 1676, C1018 ABB, Buenos Aires, Argentina",Palermo
+Tomatoes,98,Jumbo,"Supermercados Día, Fitz Roy 2292, C1425 FVD, Buenos Aires, Argentina",Recoleta 
+Tomatoes,92.99,Supermercados Día,"Av. Acoyte 702, C1405 BGS, Buenos Aires",Recoleta 
+Tomatoes,95,Supermercados Día,"Supermercados Día, Av. Rivadavia 3566, C1204 AAN, Buenos Aires, Argentina",Monserrat
+Tomatoes,84.6,Carrefour,"Av. Gaona 1290, Buenos Aires",Colegiales
+Tomatoes,104.99,Supermercados Día,"Carrefour Market, Av. Córdoba 1631, C1055 CABA, Argentina",Almagro
+Tomatoes,,Supermercados Día,"Supermercados Día, Av. Rivadavia 674, C1002 AAR, Buenos Aires, Argentina",Monserrat
+Tomatoes,,Carrefour,"Supermercados Día, Buenos Aires, Raúl Scalabrini Ortíz 3170, C1425 DBZ, Argentina",Palermo
+Tomatoes,,Carrefour,"Carrefour Market, Raúl Scalabrini Ortíz 3128, C1425 CABA, Argentina",Monserrat
+Tomatoes,,Jumbo,"Av. Córdoba 2529, C1120 CABA",Palermo
+Tomatoes,,Supermercados Día,"Av. Gral. Las Heras 2564, C1425ASP CABA",Palermo
+Tomatoes,,Supermercados Día,"Supermercados Día, Av. Rivadavia 1177, C1033 AAB, Buenos Aires, Argentina",Palermo
+Tomatoes,104.9,Carrefour,"Supermercados Día, C1426AJS AJS, Amenábar 1145, C1426 Buenos Aires, Argentina",Almagro
+Tomatoes,101,Supermercados Día,"Carrefour Market, Av. Rivadavia 3221, C1179 CABA, Argentina",Palermo
+Tomatoes,,Jumbo,"Supermercados Día, Junín 638, C1026 ABN, Buenos Aires, Argentina",
+Tomatoes,,Carrefour,"Jumba, Av. Cerviño 4860, C1425 AIO, Buenos Aires, Argentina",Retiro
+Tomatoes,349,Carrefour,"Carrefour Market, Av. Rivadavia 2243, C1034 CABA, Argentina",Villa Crespo
+Tomatoes,104.9,Carrefour,"Av. Santa Fe 3368, C1425 CABA",Zhonghe District
+Tomatoes,,Carrefour,"Carrefour Market, Raúl Scalabrini Ortíz 1840, C1414 CABA, Argentina",Wanhua District
+Tomatoes,,Supermercados Día,"Carrefour Market, Av. Corrientes 1160, 1043 CABA, Argentina",Zhonghe District
+Tomatoes,109,Jumbo,"Supermercados Día, Av. Corrientes 3534, C1194 AAO, Buenos Aires, Argentina",Zhonghe District
+Tomatoes,139,Jumbo,"Jumbo, Av. Santa Fe 4950, C1425 BHY, Buenos Aires, Argentina",Yonghe Distric
+Tomatoes,,Supermercados Día,"Jumbo, Guardia Vieja 4558, C1192 CABA, Argentina",Almagro
+Tomatoes,,Supermercados Día,"Supermercados Día, Buenos Aires, Paraguay 788, C1057 AAJ, Argentina",Retiro
+Tomatoes,278,Carrefour,"Supermercados Día, Buenos Aires, Defensa 748, C1065 AAN, Argentina",Recoleta 
+Tomatoes,118,Carrefour,"235, New Taipei City, Zhonghe District, Section 2, Zhongshan Road, 295號B1",Retiro
+Tomatoes,,Carrefour,"Carrefour, No. 1, Guilin Road, Wanhua District, Taipei City, Taiwan 108",Palermo
+Tomatoes,98,Carrefour,"Carrefour, 100, Taiwan, Taipei City, Zhongzheng District, Section 2, Jinan Road, 46號B1",Caballito 
+Tomatoes,40,Carrefour,"Carrefour, No. 276號, Jinzhou Street, Zhongshan District, Taipei City, Taiwan 10477",Almagro
+Tomatoes,,Supermercados Día,"Carrefour, No. 499-1, Zhonghe Road, Yonghe District, New Taipei City, Taiwan 234",Caballito 
+Tomatoes,,,"Sarmiento 3978, C1425 FGQ, Argentina",Retiro
+Tomatoes,118,Jumbo,,Monserrat
+Tomatoes,199,Carrefour,"Arenales 870, C1061 CABA",Palermo
+Tomatoes,,Carrefour,"Carrefour Market, Av. Santa Fe 1954, C1123 CABA, Argentina",Palermo
+Tomatoes,,Supermercados Día,"Carrefour Market, Vicente López 1676, C1018 ABB, Buenos Aires, Argentina",Recoleta 
+Tomatoes,115,Jumbo,"Supermercados Día, Fitz Roy 2292, C1425 FVD, Buenos Aires, Argentina",Recoleta 
+Tomatoes,,Supermercados Día,"Av. Acoyte 702, C1405 BGS, Buenos Aires",Monserrat
+Tomatoes,120,Supermercados Día,"Supermercados Día, Av. Rivadavia 3566, C1204 AAN, Buenos Aires, Argentina",Colegiales
+Tomatoes,,Carrefour,"Av. Gaona 1290, Buenos Aires",Almagro
+Tomatoes,,Supermercados Día,"Carrefour Market, Av. Córdoba 1631, C1055 CABA, Argentina",Monserrat
+Tomatoes,,Supermercados Día,"Supermercados Día, Av. Rivadavia 674, C1002 AAR, Buenos Aires, Argentina",Palermo
+Tomatoes,,Carrefour,"Supermercados Día, Buenos Aires, Raúl Scalabrini Ortíz 3170, C1425 DBZ, Argentina",Monserrat
+Tomatoes,,Carrefour,"Carrefour Market, Raúl Scalabrini Ortíz 3128, C1425 CABA, Argentina",Palermo
+Tomatoes,,Jumbo,"Av. Córdoba 2529, C1120 CABA",Palermo
+Tomatoes,,Supermercados Día,"Av. Gral. Las Heras 2564, C1425ASP CABA",Palermo
+Tomatoes,,Supermercados Día,"Supermercados Día, Av. Rivadavia 1177, C1033 AAB, Buenos Aires, Argentina",Almagro
+Tomatoes,239,Carrefour,"Supermercados Día, C1426AJS AJS, Amenábar 1145, C1426 Buenos Aires, Argentina",Palermo
+Tomatoes,,Supermercados Día,"Carrefour Market, Av. Rivadavia 3221, C1179 CABA, Argentina",
+Tomatoes,,Jumbo,"Supermercados Día, Junín 638, C1026 ABN, Buenos Aires, Argentina",Retiro
+Tomatoes,,Carrefour,"Jumba, Av. Cerviño 4860, C1425 AIO, Buenos Aires, Argentina",Villa Crespo
+Tomatoes,239,Carrefour,"Carrefour Market, Av. Rivadavia 2243, C1034 CABA, Argentina",Zhonghe District
+Tomatoes,,Carrefour,"Av. Santa Fe 3368, C1425 CABA",Wanhua District
+Potatoes,26,Carrefour,"Carrefour Market, Raúl Scalabrini Ortíz 1840, C1414 CABA, Argentina",Zhonghe District
+Potatoes,34.99,Supermercados Día,"Carrefour Market, Av. Corrientes 1160, 1043 CABA, Argentina",Zhonghe District
+Potatoes,44,Jumbo,"Supermercados Día, Av. Corrientes 3534, C1194 AAO, Buenos Aires, Argentina",Yonghe Distric
+Potatoes,39,Jumbo,"Jumbo, Av. Santa Fe 4950, C1425 BHY, Buenos Aires, Argentina",Almagro
+Potatoes,,Supermercados Día,"Jumbo, Guardia Vieja 4558, C1192 CABA, Argentina",Retiro
+Potatoes,,Supermercados Día,"Supermercados Día, Buenos Aires, Paraguay 788, C1057 AAJ, Argentina",Recoleta 
+Potatoes,118,Carrefour,"Supermercados Día, Buenos Aires, Defensa 748, C1065 AAN, Argentina",Retiro
+Potatoes,118,Carrefour,"235, New Taipei City, Zhonghe District, Section 2, Zhongshan Road, 295號B1",Palermo
+Potatoes,110,Carrefour,"Carrefour, No. 1, Guilin Road, Wanhua District, Taipei City, Taiwan 108",Caballito 
+Potatoes,118,Carrefour,"Carrefour, 100, Taiwan, Taipei City, Zhongzheng District, Section 2, Jinan Road, 46號B1",Almagro
+Potatoes,110,Carrefour,"Carrefour, No. 276號, Jinzhou Street, Zhongshan District, Taipei City, Taiwan 10477",Caballito 
+Potatoes,34.99,Supermercados Día,"Carrefour, No. 499-1, Zhonghe Road, Yonghe District, New Taipei City, Taiwan 234",Retiro
+Potatoes,,,"Sarmiento 3978, C1425 FGQ, Argentina",Monserrat
+Potatoes,29,Jumbo,,Palermo
+Potatoes,54.9,Carrefour,"Arenales 870, C1061 CABA",Palermo
+Potatoes,26,Carrefour,"Carrefour Market, Av. Santa Fe 1954, C1123 CABA, Argentina",Recoleta 
+Potatoes,34.99,Supermercados Día,"Carrefour Market, Vicente López 1676, C1018 ABB, Buenos Aires, Argentina",Recoleta 
+Potatoes,29,Jumbo,"Supermercados Día, Fitz Roy 2292, C1425 FVD, Buenos Aires, Argentina",Monserrat
+Potatoes,34.99,Supermercados Día,"Av. Acoyte 702, C1405 BGS, Buenos Aires",Colegiales
+Potatoes,1,Supermercados Día,"Supermercados Día, Av. Rivadavia 3566, C1204 AAN, Buenos Aires, Argentina",Almagro
+Potatoes,35,Carrefour,"Av. Gaona 1290, Buenos Aires",Monserrat
+Potatoes,34.99,Supermercados Día,"Carrefour Market, Av. Córdoba 1631, C1055 CABA, Argentina",Palermo
+Potatoes,89.9,Supermercados Día,"Supermercados Día, Av. Rivadavia 674, C1002 AAR, Buenos Aires, Argentina",Monserrat
+Potatoes,33,Carrefour,"Supermercados Día, Buenos Aires, Raúl Scalabrini Ortíz 3170, C1425 DBZ, Argentina",Palermo
+Potatoes,26,Carrefour,"Carrefour Market, Raúl Scalabrini Ortíz 3128, C1425 CABA, Argentina",Palermo
+Potatoes,35,Jumbo,"Av. Córdoba 2529, C1120 CABA",Palermo
+Potatoes,35,Supermercados Día,"Av. Gral. Las Heras 2564, C1425ASP CABA",Almagro
+Potatoes,35,Supermercados Día,"Supermercados Día, Av. Rivadavia 1177, C1033 AAB, Buenos Aires, Argentina",Palermo
+Potatoes,357,Carrefour,"Supermercados Día, C1426AJS AJS, Amenábar 1145, C1426 Buenos Aires, Argentina",
+Potatoes,149.9,Supermercados Día,"Carrefour Market, Av. Rivadavia 3221, C1179 CABA, Argentina",Retiro
+Potatoes,29,Jumbo,"Supermercados Día, Junín 638, C1026 ABN, Buenos Aires, Argentina",Villa Crespo
+Potatoes,35,Carrefour,"Jumba, Av. Cerviño 4860, C1425 AIO, Buenos Aires, Argentina",Zhonghe District
+Potatoes,183,Carrefour,"Carrefour Market, Av. Rivadavia 2243, C1034 CABA, Argentina",Wanhua District
+Potatoes,26,Carrefour,"Av. Santa Fe 3368, C1425 CABA",Zhonghe District
+Potatoes,55,Carrefour,"Carrefour Market, Raúl Scalabrini Ortíz 1840, C1414 CABA, Argentina",Zhonghe District
+Potatoes,,Supermercados Día,"Carrefour Market, Av. Corrientes 1160, 1043 CABA, Argentina",Yonghe Distric
+Potatoes,26,Jumbo,"Supermercados Día, Av. Corrientes 3534, C1194 AAO, Buenos Aires, Argentina",Almagro
+Potatoes,55,Jumbo,"Jumbo, Av. Santa Fe 4950, C1425 BHY, Buenos Aires, Argentina",Retiro
+Potatoes,,Supermercados Día,"Jumbo, Guardia Vieja 4558, C1192 CABA, Argentina",Recoleta 
+Potatoes,,Supermercados Día,"Supermercados Día, Buenos Aires, Paraguay 788, C1057 AAJ, Argentina",Retiro
+Potatoes,,Carrefour,"Supermercados Día, Buenos Aires, Defensa 748, C1065 AAN, Argentina",Palermo
+Potatoes,138,Carrefour,"235, New Taipei City, Zhonghe District, Section 2, Zhongshan Road, 295號B1",Caballito 
+Potatoes,118,Carrefour,"Carrefour, No. 1, Guilin Road, Wanhua District, Taipei City, Taiwan 108",Almagro
+Potatoes,26,Carrefour,"Carrefour, 100, Taiwan, Taipei City, Zhongzheng District, Section 2, Jinan Road, 46號B1",Caballito 
+Potatoes,118,Carrefour,"Carrefour, No. 276號, Jinzhou Street, Zhongshan District, Taipei City, Taiwan 10477",Retiro
+Potatoes,,Supermercados Día,"Carrefour, No. 499-1, Zhonghe Road, Yonghe District, New Taipei City, Taiwan 234",Monserrat
+Potatoes,,,"Sarmiento 3978, C1425 FGQ, Argentina",Palermo
+Potatoes,,Jumbo,,Palermo
+Potatoes,183,Carrefour,"Arenales 870, C1061 CABA",Recoleta 
+Potatoes,,Carrefour,"Carrefour Market, Av. Santa Fe 1954, C1123 CABA, Argentina",Recoleta 
+Potatoes,,Supermercados Día,"Carrefour Market, Vicente López 1676, C1018 ABB, Buenos Aires, Argentina",Monserrat
+Potatoes,39,Jumbo,"Supermercados Día, Fitz Roy 2292, C1425 FVD, Buenos Aires, Argentina",Colegiales
+Potatoes,,Supermercados Día,"Av. Acoyte 702, C1405 BGS, Buenos Aires",Almagro
+Potatoes,24,Supermercados Día,"Supermercados Día, Av. Rivadavia 3566, C1204 AAN, Buenos Aires, Argentina",Monserrat
+Potatoes,49.8,Carrefour,"Av. Gaona 1290, Buenos Aires",Palermo
+Potatoes,,Supermercados Día,"Carrefour Market, Av. Córdoba 1631, C1055 CABA, Argentina",Monserrat
+Potatoes,29,Supermercados Día,"Supermercados Día, Av. Rivadavia 674, C1002 AAR, Buenos Aires, Argentina",Palermo
+Potatoes,,Carrefour,"Supermercados Día, Buenos Aires, Raúl Scalabrini Ortíz 3170, C1425 DBZ, Argentina",Palermo
+Potatoes,,Carrefour,"Carrefour Market, Raúl Scalabrini Ortíz 3128, C1425 CABA, Argentina",Palermo
+Potatoes,,Jumbo,"Av. Córdoba 2529, C1120 CABA",Almagro
+Potatoes,,Supermercados Día,"Av. Gral. Las Heras 2564, C1425ASP CABA",Palermo
+Potatoes,,Supermercados Día,"Supermercados Día, Av. Rivadavia 1177, C1033 AAB, Buenos Aires, Argentina",
+Potatoes,228,Carrefour,"Supermercados Día, C1426AJS AJS, Amenábar 1145, C1426 Buenos Aires, Argentina",Retiro
+Potatoes,147.99,Supermercados Día,"Carrefour Market, Av. Rivadavia 3221, C1179 CABA, Argentina",Villa Crespo
+Potatoes,,Jumbo,"Supermercados Día, Junín 638, C1026 ABN, Buenos Aires, Argentina",Zhonghe District
+Potatoes,,Carrefour,"Jumba, Av. Cerviño 4860, C1425 AIO, Buenos Aires, Argentina",Wanhua District
+Potatoes,122,Carrefour,"Carrefour Market, Av. Rivadavia 2243, C1034 CABA, Argentina",Zhonghe District
+Potatoes,,Carrefour,"Av. Santa Fe 3368, C1425 CABA",Zhonghe District
+Potatoes,54.9,Carrefour,"Carrefour Market, Raúl Scalabrini Ortíz 1840, C1414 CABA, Argentina",Yonghe Distric
+Potatoes,,Supermercados Día,"Carrefour Market, Av. Corrientes 1160, 1043 CABA, Argentina",Almagro
+Potatoes,58,Jumbo,"Supermercados Día, Av. Corrientes 3534, C1194 AAO, Buenos Aires, Argentina",Retiro
+Potatoes,,Jumbo,"Jumbo, Av. Santa Fe 4950, C1425 BHY, Buenos Aires, Argentina",Recoleta 
+Potatoes,,Supermercados Día,"Jumbo, Guardia Vieja 4558, C1192 CABA, Argentina",Retiro
+Potatoes,,Supermercados Día,"Supermercados Día, Buenos Aires, Paraguay 788, C1057 AAJ, Argentina",Palermo
+Potatoes,,Carrefour,"Supermercados Día, Buenos Aires, Defensa 748, C1065 AAN, Argentina",Caballito 
+Potatoes,26,Carrefour,"235, New Taipei City, Zhonghe District, Section 2, Zhongshan Road, 295號B1",Almagro
+Potatoes,26,Carrefour,"Carrefour, No. 1, Guilin Road, Wanhua District, Taipei City, Taiwan 108",Caballito 
+Potatoes,,Carrefour,"Carrefour, 100, Taiwan, Taipei City, Zhongzheng District, Section 2, Jinan Road, 46號B1",Retiro
+Potatoes,26,Carrefour,"Carrefour, No. 276號, Jinzhou Street, Zhongshan District, Taipei City, Taiwan 10477",Monserrat
+Potatoes,,Supermercados Día,"Carrefour, No. 499-1, Zhonghe Road, Yonghe District, New Taipei City, Taiwan 234",Palermo
+Potatoes,,,"Sarmiento 3978, C1425 FGQ, Argentina",Palermo
+Potatoes,,Jumbo,,Recoleta 
+Potatoes,26,Carrefour,"Arenales 870, C1061 CABA",Recoleta 
+Potatoes,,Carrefour,"Carrefour Market, Av. Santa Fe 1954, C1123 CABA, Argentina",Monserrat
+Potatoes,,Supermercados Día,"Carrefour Market, Vicente López 1676, C1018 ABB, Buenos Aires, Argentina",Colegiales
+Potatoes,58,Jumbo,"Supermercados Día, Fitz Roy 2292, C1425 FVD, Buenos Aires, Argentina",Almagro
+Potatoes,,Supermercados Día,"Av. Acoyte 702, C1405 BGS, Buenos Aires",Monserrat
+Potatoes,31,Supermercados Día,"Supermercados Día, Av. Rivadavia 3566, C1204 AAN, Buenos Aires, Argentina",Palermo
+Potatoes,35,Carrefour,"Av. Gaona 1290, Buenos Aires",Monserrat
+Potatoes,,Supermercados Día,"Carrefour Market, Av. Córdoba 1631, C1055 CABA, Argentina",Palermo
+Potatoes,,Supermercados Día,"Supermercados Día, Av. Rivadavia 674, C1002 AAR, Buenos Aires, Argentina",Palermo
+Potatoes,,Carrefour,"Supermercados Día, Buenos Aires, Raúl Scalabrini Ortíz 3170, C1425 DBZ, Argentina",Palermo
+Potatoes,,Carrefour,"Carrefour Market, Raúl Scalabrini Ortíz 3128, C1425 CABA, Argentina",Almagro
+Potatoes,,Jumbo,"Av. Córdoba 2529, C1120 CABA",Palermo
+Potatoes,,Supermercados Día,"Av. Gral. Las Heras 2564, C1425ASP CABA",
+Potatoes,,Supermercados Día,"Supermercados Día, Av. Rivadavia 1177, C1033 AAB, Buenos Aires, Argentina",Retiro
+Potatoes,212,Carrefour,"Supermercados Día, C1426AJS AJS, Amenábar 1145, C1426 Buenos Aires, Argentina",Villa Crespo
+Potatoes,79.9,Supermercados Día,"Carrefour Market, Av. Rivadavia 3221, C1179 CABA, Argentina",Zhonghe District
+Potatoes,,Jumbo,"Supermercados Día, Junín 638, C1026 ABN, Buenos Aires, Argentina",Wanhua District
+Potatoes,,Carrefour,"Jumba, Av. Cerviño 4860, C1425 AIO, Buenos Aires, Argentina",Zhonghe District
+Potatoes,,Carrefour,"Carrefour Market, Av. Rivadavia 2243, C1034 CABA, Argentina",Zhonghe District
+Potatoes,,Carrefour,"Av. Santa Fe 3368, C1425 CABA",Yonghe Distric
+Flour,46,Carrefour,"Carrefour Market, Raúl Scalabrini Ortíz 1840, C1414 CABA, Argentina",Almagro
+Flour,40.69,Supermercados Día,"Carrefour Market, Av. Corrientes 1160, 1043 CABA, Argentina",Retiro
+Flour,40,Jumbo,"Supermercados Día, Av. Corrientes 3534, C1194 AAO, Buenos Aires, Argentina",Recoleta 
+Flour,83,Jumbo,"Jumbo, Av. Santa Fe 4950, C1425 BHY, Buenos Aires, Argentina",Retiro
+Flour,49.99,Supermercados Día,"Jumbo, Guardia Vieja 4558, C1192 CABA, Argentina",Palermo
+Flour,54.99,Supermercados Día,"Supermercados Día, Buenos Aires, Paraguay 788, C1057 AAJ, Argentina",Caballito 
+Flour,,Carrefour,"Supermercados Día, Buenos Aires, Defensa 748, C1065 AAN, Argentina",Almagro
+Flour,8,Carrefour,"235, New Taipei City, Zhonghe District, Section 2, Zhongshan Road, 295號B1",Caballito 
+Flour,78,Carrefour,"Carrefour, No. 1, Guilin Road, Wanhua District, Taipei City, Taiwan 108",Retiro
+Flour,78,Carrefour,"Carrefour, 100, Taiwan, Taipei City, Zhongzheng District, Section 2, Jinan Road, 46號B1",Monserrat
+Flour,78,Carrefour,"Carrefour, No. 276號, Jinzhou Street, Zhongshan District, Taipei City, Taiwan 10477",Palermo
+Flour,133.98,Supermercados Día,"Carrefour, No. 499-1, Zhonghe Road, Yonghe District, New Taipei City, Taiwan 234",Palermo
+Flour,,,"Sarmiento 3978, C1425 FGQ, Argentina",Recoleta 
+Flour,52,Jumbo,,Recoleta 
+Flour,46,Carrefour,"Arenales 870, C1061 CABA",Monserrat
+Flour,33,Carrefour,"Carrefour Market, Av. Santa Fe 1954, C1123 CABA, Argentina",Colegiales
+Flour,65,Supermercados Día,"Carrefour Market, Vicente López 1676, C1018 ABB, Buenos Aires, Argentina",Almagro
+Flour,62.65,Jumbo,"Supermercados Día, Fitz Roy 2292, C1425 FVD, Buenos Aires, Argentina",Monserrat
+Flour,33,Supermercados Día,"Av. Acoyte 702, C1405 BGS, Buenos Aires",Palermo
+Flour,35,Supermercados Día,"Supermercados Día, Av. Rivadavia 3566, C1204 AAN, Buenos Aires, Argentina",Monserrat
+Flour,57,Carrefour,"Av. Gaona 1290, Buenos Aires",Palermo
+Flour,40.69,Supermercados Día,"Carrefour Market, Av. Córdoba 1631, C1055 CABA, Argentina",Palermo
+Flour,49,Supermercados Día,"Supermercados Día, Av. Rivadavia 674, C1002 AAR, Buenos Aires, Argentina",Palermo
+Flour,49,Carrefour,"Supermercados Día, Buenos Aires, Raúl Scalabrini Ortíz 3170, C1425 DBZ, Argentina",Almagro
+Flour,45,Carrefour,"Carrefour Market, Raúl Scalabrini Ortíz 3128, C1425 CABA, Argentina",Palermo
+Flour,46,Jumbo,"Av. Córdoba 2529, C1120 CABA",
+Flour,67,Supermercados Día,"Av. Gral. Las Heras 2564, C1425ASP CABA",Retiro
+Flour,65.3,Supermercados Día,"Supermercados Día, Av. Rivadavia 1177, C1033 AAB, Buenos Aires, Argentina",Villa Crespo
+Flour,66,Carrefour,"Supermercados Día, C1426AJS AJS, Amenábar 1145, C1426 Buenos Aires, Argentina",Zhonghe District
+Flour,64.99,Supermercados Día,"Carrefour Market, Av. Rivadavia 3221, C1179 CABA, Argentina",Wanhua District
+Flour,49,Jumbo,"Supermercados Día, Junín 638, C1026 ABN, Buenos Aires, Argentina",Zhonghe District
+Flour,62,Carrefour,"Jumba, Av. Cerviño 4860, C1425 AIO, Buenos Aires, Argentina",Zhonghe District
+Flour,52,Carrefour,"Carrefour Market, Av. Rivadavia 2243, C1034 CABA, Argentina",Yonghe Distric
+Flour,64,Carrefour,"Av. Santa Fe 3368, C1425 CABA",Almagro
+Flour,33,Carrefour,"Carrefour Market, Raúl Scalabrini Ortíz 1840, C1414 CABA, Argentina",Retiro
+Flour,,Supermercados Día,"Carrefour Market, Av. Corrientes 1160, 1043 CABA, Argentina",Recoleta 
+Flour,77.5,Jumbo,"Supermercados Día, Av. Corrientes 3534, C1194 AAO, Buenos Aires, Argentina",Retiro
+Flour,80,Jumbo,"Jumbo, Av. Santa Fe 4950, C1425 BHY, Buenos Aires, Argentina",Palermo
+Flour,52,Supermercados Día,"Jumbo, Guardia Vieja 4558, C1192 CABA, Argentina",Caballito 
+Flour,51.99,Supermercados Día,"Supermercados Día, Buenos Aires, Paraguay 788, C1057 AAJ, Argentina",Almagro
+Flour,,Carrefour,"Supermercados Día, Buenos Aires, Defensa 748, C1065 AAN, Argentina",Caballito 
+Flour,23,Carrefour,"235, New Taipei City, Zhonghe District, Section 2, Zhongshan Road, 295號B1",Retiro
+Flour,106,Carrefour,"Carrefour, No. 1, Guilin Road, Wanhua District, Taipei City, Taiwan 108",Monserrat
+Flour,,Carrefour,"Carrefour, 100, Taiwan, Taipei City, Zhongzheng District, Section 2, Jinan Road, 46號B1",Palermo
+Flour,52,Carrefour,"Carrefour, No. 276號, Jinzhou Street, Zhongshan District, Taipei City, Taiwan 10477",Palermo
+Flour,125.28,Supermercados Día,"Carrefour, No. 499-1, Zhonghe Road, Yonghe District, New Taipei City, Taiwan 234",Recoleta 
+Flour,,,"Sarmiento 3978, C1425 FGQ, Argentina",Recoleta 
+Flour,46,Jumbo,,Monserrat
+Flour,34.7,Carrefour,"Arenales 870, C1061 CABA",Colegiales
+Flour,46,Carrefour,"Carrefour Market, Av. Santa Fe 1954, C1123 CABA, Argentina",Almagro
+Flour,70,Supermercados Día,"Carrefour Market, Vicente López 1676, C1018 ABB, Buenos Aires, Argentina",Monserrat
+Flour,35,Jumbo,"Supermercados Día, Fitz Roy 2292, C1425 FVD, Buenos Aires, Argentina",Palermo
+Flour,51.99,Supermercados Día,"Av. Acoyte 702, C1405 BGS, Buenos Aires",Monserrat
+Flour,41,Supermercados Día,"Supermercados Día, Av. Rivadavia 3566, C1204 AAN, Buenos Aires, Argentina",Palermo
+Flour,42.5,Carrefour,"Av. Gaona 1290, Buenos Aires",Palermo
+Flour,54.5,Supermercados Día,"Carrefour Market, Av. Córdoba 1631, C1055 CABA, Argentina",Palermo
+Flour,46,Supermercados Día,"Supermercados Día, Av. Rivadavia 674, C1002 AAR, Buenos Aires, Argentina",Almagro
+Flour,33,Carrefour,"Supermercados Día, Buenos Aires, Raúl Scalabrini Ortíz 3170, C1425 DBZ, Argentina",Palermo
+Flour,,Carrefour,"Carrefour Market, Raúl Scalabrini Ortíz 3128, C1425 CABA, Argentina",
+Flour,33,Jumbo,"Av. Córdoba 2529, C1120 CABA",Retiro
+Flour,73.89,Supermercados Día,"Av. Gral. Las Heras 2564, C1425ASP CABA",Villa Crespo
+Flour,75,Supermercados Día,"Supermercados Día, Av. Rivadavia 1177, C1033 AAB, Buenos Aires, Argentina",Zhonghe District
+Flour,79,Carrefour,"Supermercados Día, C1426AJS AJS, Amenábar 1145, C1426 Buenos Aires, Argentina",Wanhua District
+Flour,79.99,Supermercados Día,"Carrefour Market, Av. Rivadavia 3221, C1179 CABA, Argentina",Zhonghe District
+Flour,46,Jumbo,"Supermercados Día, Junín 638, C1026 ABN, Buenos Aires, Argentina",Zhonghe District
+Flour,65,Carrefour,"Jumba, Av. Cerviño 4860, C1425 AIO, Buenos Aires, Argentina",Yonghe Distric
+Flour,49,Carrefour,"Carrefour Market, Av. Rivadavia 2243, C1034 CABA, Argentina",Almagro
+Flour,49,Carrefour,"Av. Santa Fe 3368, C1425 CABA",Retiro
+Flour,54.9,Carrefour,"Carrefour Market, Raúl Scalabrini Ortíz 1840, C1414 CABA, Argentina",Recoleta 
+Flour,,Supermercados Día,"Carrefour Market, Av. Corrientes 1160, 1043 CABA, Argentina",Retiro
+Flour,64,Jumbo,"Supermercados Día, Av. Corrientes 3534, C1194 AAO, Buenos Aires, Argentina",Palermo
+Flour,66.89,Jumbo,"Jumbo, Av. Santa Fe 4950, C1425 BHY, Buenos Aires, Argentina",Caballito 
+Flour,45.99,Supermercados Día,"Jumbo, Guardia Vieja 4558, C1192 CABA, Argentina",Almagro
+Flour,45.99,Supermercados Día,"Supermercados Día, Buenos Aires, Paraguay 788, C1057 AAJ, Argentina",Caballito 
+Flour,,Carrefour,"Supermercados Día, Buenos Aires, Defensa 748, C1065 AAN, Argentina",Retiro
+Flour,13.8,Carrefour,"235, New Taipei City, Zhonghe District, Section 2, Zhongshan Road, 295號B1",Monserrat
+Flour,78,Carrefour,"Carrefour, No. 1, Guilin Road, Wanhua District, Taipei City, Taiwan 108",Palermo
+Flour,,Carrefour,"Carrefour, 100, Taiwan, Taipei City, Zhongzheng District, Section 2, Jinan Road, 46號B1",Palermo
+Flour,190,Carrefour,"Carrefour, No. 276號, Jinzhou Street, Zhongshan District, Taipei City, Taiwan 10477",Recoleta 
+Flour,,Supermercados Día,"Carrefour, No. 499-1, Zhonghe Road, Yonghe District, New Taipei City, Taiwan 234",Recoleta 
+Flour,,,"Sarmiento 3978, C1425 FGQ, Argentina",Monserrat
+Flour,,Jumbo,,Colegiales
+Flour,49,Carrefour,"Arenales 870, C1061 CABA",Almagro
+Flour,52,Carrefour,"Carrefour Market, Av. Santa Fe 1954, C1123 CABA, Argentina",Monserrat
+Flour,,Supermercados Día,"Carrefour Market, Vicente López 1676, C1018 ABB, Buenos Aires, Argentina",Palermo
+Flour,56,Jumbo,"Supermercados Día, Fitz Roy 2292, C1425 FVD, Buenos Aires, Argentina",Monserrat
+Flour,54.99,Supermercados Día,"Av. Acoyte 702, C1405 BGS, Buenos Aires",Palermo
+Flour,29,Supermercados Día,"Supermercados Día, Av. Rivadavia 3566, C1204 AAN, Buenos Aires, Argentina",Palermo
+Flour,32.2,Carrefour,"Av. Gaona 1290, Buenos Aires",Palermo
+Flour,,Supermercados Día,"Carrefour Market, Av. Córdoba 1631, C1055 CABA, Argentina",Almagro
+Flour,76,Supermercados Día,"Supermercados Día, Av. Rivadavia 674, C1002 AAR, Buenos Aires, Argentina",Palermo
+Flour,86,Carrefour,"Supermercados Día, Buenos Aires, Raúl Scalabrini Ortíz 3170, C1425 DBZ, Argentina",
+Flour,,Carrefour,"Carrefour Market, Raúl Scalabrini Ortíz 3128, C1425 CABA, Argentina",Retiro
+Flour,,Jumbo,"Av. Córdoba 2529, C1120 CABA",Villa Crespo
+Flour,82,Supermercados Día,"Av. Gral. Las Heras 2564, C1425ASP CABA",Zhonghe District
+Flour,70,Supermercados Día,"Supermercados Día, Av. Rivadavia 1177, C1033 AAB, Buenos Aires, Argentina",Wanhua District
+Flour,68,Carrefour,"Supermercados Día, C1426AJS AJS, Amenábar 1145, C1426 Buenos Aires, Argentina",Zhonghe District
+Flour,85.49,Supermercados Día,"Carrefour Market, Av. Rivadavia 3221, C1179 CABA, Argentina",Zhonghe District
+Flour,57,Jumbo,"Supermercados Día, Junín 638, C1026 ABN, Buenos Aires, Argentina",Yonghe Distric
+Flour,,Carrefour,"Jumba, Av. Cerviño 4860, C1425 AIO, Buenos Aires, Argentina",Almagro
+Flour,65,Carrefour,"Carrefour Market, Av. Rivadavia 2243, C1034 CABA, Argentina",Retiro
+Flour,46,Carrefour,"Av. Santa Fe 3368, C1425 CABA",Recoleta 
+Rice,53.5,Carrefour,"Carrefour Market, Raúl Scalabrini Ortíz 1840, C1414 CABA, Argentina",Retiro
+Rice,59.99,Supermercados Día,"Carrefour Market, Av. Corrientes 1160, 1043 CABA, Argentina",Palermo
+Rice,54,Jumbo,"Supermercados Día, Av. Corrientes 3534, C1194 AAO, Buenos Aires, Argentina",Caballito 
+Rice,53.5,Jumbo,"Jumbo, Av. Santa Fe 4950, C1425 BHY, Buenos Aires, Argentina",Almagro
+Rice,74.99,Supermercados Día,"Jumbo, Guardia Vieja 4558, C1192 CABA, Argentina",Caballito 
+Rice,59.98,Supermercados Día,"Supermercados Día, Buenos Aires, Paraguay 788, C1057 AAJ, Argentina",Retiro
+Rice,,Carrefour,"Supermercados Día, Buenos Aires, Defensa 748, C1065 AAN, Argentina",Monserrat
+Rice,105,Carrefour,"235, New Taipei City, Zhonghe District, Section 2, Zhongshan Road, 295號B1",Palermo
+Rice,318,Carrefour,"Carrefour, No. 1, Guilin Road, Wanhua District, Taipei City, Taiwan 108",Palermo
+Rice,,Carrefour,"Carrefour, 100, Taiwan, Taipei City, Zhongzheng District, Section 2, Jinan Road, 46號B1",Recoleta 
+Rice,198,Carrefour,"Carrefour, No. 276號, Jinzhou Street, Zhongshan District, Taipei City, Taiwan 10477",Recoleta 
+Rice,53.56,Supermercados Día,"Carrefour, No. 499-1, Zhonghe Road, Yonghe District, New Taipei City, Taiwan 234",Monserrat
+Rice,,,"Sarmiento 3978, C1425 FGQ, Argentina",Colegiales
+Rice,73,Jumbo,,Almagro
+Rice,28,Carrefour,"Arenales 870, C1061 CABA",Monserrat
+Rice,53,Carrefour,"Carrefour Market, Av. Santa Fe 1954, C1123 CABA, Argentina",Palermo
+Rice,60,Supermercados Día,"Carrefour Market, Vicente López 1676, C1018 ABB, Buenos Aires, Argentina",Monserrat
+Rice,,Jumbo,"Supermercados Día, Fitz Roy 2292, C1425 FVD, Buenos Aires, Argentina",Palermo
+Rice,74.99,Supermercados Día,"Av. Acoyte 702, C1405 BGS, Buenos Aires",Palermo
+Rice,,Supermercados Día,"Supermercados Día, Av. Rivadavia 3566, C1204 AAN, Buenos Aires, Argentina",Palermo
+Rice,56,Carrefour,"Av. Gaona 1290, Buenos Aires",Almagro
+Rice,53.5,Supermercados Día,"Carrefour Market, Av. Córdoba 1631, C1055 CABA, Argentina",Palermo
+Rice,87,Supermercados Día,"Supermercados Día, Av. Rivadavia 674, C1002 AAR, Buenos Aires, Argentina",
+Rice,140,Carrefour,"Supermercados Día, Buenos Aires, Raúl Scalabrini Ortíz 3170, C1425 DBZ, Argentina",Retiro
+Rice,64,Carrefour,"Carrefour Market, Raúl Scalabrini Ortíz 3128, C1425 CABA, Argentina",Villa Crespo
+Rice,53.3,Jumbo,"Av. Córdoba 2529, C1120 CABA",Zhonghe District
+Rice,68.3,Supermercados Día,"Av. Gral. Las Heras 2564, C1425ASP CABA",Wanhua District
+Rice,68,Supermercados Día,"Supermercados Día, Av. Rivadavia 1177, C1033 AAB, Buenos Aires, Argentina",Zhonghe District
+Rice,155,Carrefour,"Supermercados Día, C1426AJS AJS, Amenábar 1145, C1426 Buenos Aires, Argentina",Zhonghe District
+Rice,124.99,Supermercados Día,"Carrefour Market, Av. Rivadavia 3221, C1179 CABA, Argentina",Yonghe Distric
+Rice,62,Jumbo,"Supermercados Día, Junín 638, C1026 ABN, Buenos Aires, Argentina",Almagro
+Rice,66,Carrefour,"Jumba, Av. Cerviño 4860, C1425 AIO, Buenos Aires, Argentina",Retiro
+Rice,53,Carrefour,"Carrefour Market, Av. Rivadavia 2243, C1034 CABA, Argentina",Recoleta 
+Rice,74,Carrefour,"Av. Santa Fe 3368, C1425 CABA",Retiro
+Rice,61,Carrefour,"Carrefour Market, Raúl Scalabrini Ortíz 1840, C1414 CABA, Argentina",Palermo
+Rice,67.98,Supermercados Día,"Carrefour Market, Av. Corrientes 1160, 1043 CABA, Argentina",Caballito 
+Rice,53.5,Jumbo,"Supermercados Día, Av. Corrientes 3534, C1194 AAO, Buenos Aires, Argentina",Almagro
+Rice,66,Jumbo,"Jumbo, Av. Santa Fe 4950, C1425 BHY, Buenos Aires, Argentina",Caballito 
+Rice,68.29,Supermercados Día,"Jumbo, Guardia Vieja 4558, C1192 CABA, Argentina",Retiro
+Rice,76.99,Supermercados Día,"Supermercados Día, Buenos Aires, Paraguay 788, C1057 AAJ, Argentina",Monserrat
+Rice,,Carrefour,"Supermercados Día, Buenos Aires, Defensa 748, C1065 AAN, Argentina",Palermo
+Rice,200,Carrefour,"235, New Taipei City, Zhonghe District, Section 2, Zhongshan Road, 295號B1",Palermo
+Rice,396,Carrefour,"Carrefour, No. 1, Guilin Road, Wanhua District, Taipei City, Taiwan 108",Recoleta 
+Rice,,Carrefour,"Carrefour, 100, Taiwan, Taipei City, Zhongzheng District, Section 2, Jinan Road, 46號B1",Recoleta 
+Rice,396,Carrefour,"Carrefour, No. 276號, Jinzhou Street, Zhongshan District, Taipei City, Taiwan 10477",Monserrat
+Rice,66.5,Supermercados Día,"Carrefour, No. 499-1, Zhonghe Road, Yonghe District, New Taipei City, Taiwan 234",Colegiales
+Rice,,,"Sarmiento 3978, C1425 FGQ, Argentina",Almagro
+Rice,59,Jumbo,,Monserrat
+Rice,33.1,Carrefour,"Arenales 870, C1061 CABA",Palermo
+Rice,76,Carrefour,"Carrefour Market, Av. Santa Fe 1954, C1123 CABA, Argentina",Monserrat
+Rice,65,Supermercados Día,"Carrefour Market, Vicente López 1676, C1018 ABB, Buenos Aires, Argentina",Palermo
+Rice,,Jumbo,"Supermercados Día, Fitz Roy 2292, C1425 FVD, Buenos Aires, Argentina",Palermo
+Rice,66.99,Supermercados Día,"Av. Acoyte 702, C1405 BGS, Buenos Aires",Palermo
+Rice,,Supermercados Día,"Supermercados Día, Av. Rivadavia 3566, C1204 AAN, Buenos Aires, Argentina",Almagro
+Rice,54.4,Carrefour,"Av. Gaona 1290, Buenos Aires",Palermo
+Rice,76.99,Supermercados Día,"Carrefour Market, Av. Córdoba 1631, C1055 CABA, Argentina",
+Rice,96,Supermercados Día,"Supermercados Día, Av. Rivadavia 674, C1002 AAR, Buenos Aires, Argentina",Retiro
+Rice,59,Carrefour,"Supermercados Día, Buenos Aires, Raúl Scalabrini Ortíz 3170, C1425 DBZ, Argentina",Villa Crespo
+Rice,54,Carrefour,"Carrefour Market, Raúl Scalabrini Ortíz 3128, C1425 CABA, Argentina",Zhonghe District
+Rice,72,Jumbo,"Av. Córdoba 2529, C1120 CABA",Wanhua District
+Rice,75,Supermercados Día,"Av. Gral. Las Heras 2564, C1425ASP CABA",Zhonghe District
+Rice,72.3,Supermercados Día,"Supermercados Día, Av. Rivadavia 1177, C1033 AAB, Buenos Aires, Argentina",Zhonghe District
+Rice,161,Carrefour,"Supermercados Día, C1426AJS AJS, Amenábar 1145, C1426 Buenos Aires, Argentina",Yonghe Distric
+Rice,56.99,Supermercados Día,"Carrefour Market, Av. Rivadavia 3221, C1179 CABA, Argentina",Almagro
+Rice,,Jumbo,"Supermercados Día, Junín 638, C1026 ABN, Buenos Aires, Argentina",Retiro
+Rice,,Carrefour,"Jumba, Av. Cerviño 4860, C1425 AIO, Buenos Aires, Argentina",Recoleta 
+Rice,64,Carrefour,"Carrefour Market, Av. Rivadavia 2243, C1034 CABA, Argentina",Retiro
+Rice,53.5,Carrefour,"Av. Santa Fe 3368, C1425 CABA",Palermo
+Rice,54.5,Carrefour,"Carrefour Market, Raúl Scalabrini Ortíz 1840, C1414 CABA, Argentina",Caballito 
+Rice,49.99,Supermercados Día,"Carrefour Market, Av. Corrientes 1160, 1043 CABA, Argentina",Almagro
+Rice,54.5,Jumbo,"Supermercados Día, Av. Corrientes 3534, C1194 AAO, Buenos Aires, Argentina",Caballito 
+Rice,54.3,Jumbo,"Jumbo, Av. Santa Fe 4950, C1425 BHY, Buenos Aires, Argentina",Retiro
+Rice,49.99,Supermercados Día,"Jumbo, Guardia Vieja 4558, C1192 CABA, Argentina",Monserrat
+Rice,53.5,Supermercados Día,"Supermercados Día, Buenos Aires, Paraguay 788, C1057 AAJ, Argentina",Palermo
+Rice,,Carrefour,"Supermercados Día, Buenos Aires, Defensa 748, C1065 AAN, Argentina",Palermo
+Rice,300,Carrefour,"235, New Taipei City, Zhonghe District, Section 2, Zhongshan Road, 295號B1",Recoleta 
+Rice,396,Carrefour,"Carrefour, No. 1, Guilin Road, Wanhua District, Taipei City, Taiwan 108",Recoleta 
+Rice,,Carrefour,"Carrefour, 100, Taiwan, Taipei City, Zhongzheng District, Section 2, Jinan Road, 46號B1",Monserrat
+Rice,230,Carrefour,"Carrefour, No. 276號, Jinzhou Street, Zhongshan District, Taipei City, Taiwan 10477",Colegiales
+Rice,76.99,Supermercados Día,"Carrefour, No. 499-1, Zhonghe Road, Yonghe District, New Taipei City, Taiwan 234",Almagro
+Rice,,,"Sarmiento 3978, C1425 FGQ, Argentina",Monserrat
+Rice,66,Jumbo,,Palermo
+Rice,53,Carrefour,"Arenales 870, C1061 CABA",Monserrat
+Rice,60,Carrefour,"Carrefour Market, Av. Santa Fe 1954, C1123 CABA, Argentina",Palermo
+Rice,,Supermercados Día,"Carrefour Market, Vicente López 1676, C1018 ABB, Buenos Aires, Argentina",Palermo
+Rice,,Jumbo,"Supermercados Día, Fitz Roy 2292, C1425 FVD, Buenos Aires, Argentina",Palermo
+Rice,33.99,Supermercados Día,"Av. Acoyte 702, C1405 BGS, Buenos Aires",Almagro
+Rice,,Supermercados Día,"Supermercados Día, Av. Rivadavia 3566, C1204 AAN, Buenos Aires, Argentina",Palermo
+Rice,61.7,Carrefour,"Av. Gaona 1290, Buenos Aires",
+Rice,66,Supermercados Día,"Carrefour Market, Av. Córdoba 1631, C1055 CABA, Argentina",Retiro
+Rice,59,Supermercados Día,"Supermercados Día, Av. Rivadavia 674, C1002 AAR, Buenos Aires, Argentina",Villa Crespo
+Rice,41,Carrefour,"Supermercados Día, Buenos Aires, Raúl Scalabrini Ortíz 3170, C1425 DBZ, Argentina",Zhonghe District
+Rice,66,Carrefour,"Carrefour Market, Raúl Scalabrini Ortíz 3128, C1425 CABA, Argentina",Wanhua District
+Rice,68,Jumbo,"Av. Córdoba 2529, C1120 CABA",Zhonghe District
+Rice,53.5,Supermercados Día,"Av. Gral. Las Heras 2564, C1425ASP CABA",Zhonghe District
+Rice,70,Supermercados Día,"Supermercados Día, Av. Rivadavia 1177, C1033 AAB, Buenos Aires, Argentina",Yonghe Distric
+Rice,146,Carrefour,"Supermercados Día, C1426AJS AJS, Amenábar 1145, C1426 Buenos Aires, Argentina",Almagro
+Rice,98.49,Supermercados Día,"Carrefour Market, Av. Rivadavia 3221, C1179 CABA, Argentina",Retiro
+Rice,,Jumbo,"Supermercados Día, Junín 638, C1026 ABN, Buenos Aires, Argentina",Recoleta 
+Rice,,Carrefour,"Jumba, Av. Cerviño 4860, C1425 AIO, Buenos Aires, Argentina",Retiro
+Rice,82,Carrefour,"Carrefour Market, Av. Rivadavia 2243, C1034 CABA, Argentina",Palermo
+Rice,37,Carrefour,"Av. Santa Fe 3368, C1425 CABA",Caballito 
+Milk,40.25,Carrefour,"Carrefour Market, Raúl Scalabrini Ortíz 1840, C1414 CABA, Argentina",Almagro
+Milk,52.49,Supermercados Día,"Carrefour Market, Av. Corrientes 1160, 1043 CABA, Argentina",Caballito 
+Milk,69,Jumbo,"Supermercados Día, Av. Corrientes 3534, C1194 AAO, Buenos Aires, Argentina",Retiro
+Milk,40.25,Jumbo,"Jumbo, Av. Santa Fe 4950, C1425 BHY, Buenos Aires, Argentina",Monserrat
+Milk,44.29,Supermercados Día,"Jumbo, Guardia Vieja 4558, C1192 CABA, Argentina",Palermo
+Milk,68.99,Supermercados Día,"Supermercados Día, Buenos Aires, Paraguay 788, C1057 AAJ, Argentina",Palermo
+Milk,170,Carrefour,"Supermercados Día, Buenos Aires, Defensa 748, C1065 AAN, Argentina",Recoleta 
+Milk,18.08,Carrefour,"235, New Taipei City, Zhonghe District, Section 2, Zhongshan Road, 295號B1",Recoleta 
+Milk,330,Carrefour,"Carrefour, No. 1, Guilin Road, Wanhua District, Taipei City, Taiwan 108",Monserrat
+Milk,170,Carrefour,"Carrefour, 100, Taiwan, Taipei City, Zhongzheng District, Section 2, Jinan Road, 46號B1",Colegiales
+Milk,324,Carrefour,"Carrefour, No. 276號, Jinzhou Street, Zhongshan District, Taipei City, Taiwan 10477",Almagro
+Milk,68.99,Supermercados Día,"Carrefour, No. 499-1, Zhonghe Road, Yonghe District, New Taipei City, Taiwan 234",Monserrat
+Milk,,,"Sarmiento 3978, C1425 FGQ, Argentina",Palermo
+Milk,60,Jumbo,,Monserrat
+Milk,45,Carrefour,"Arenales 870, C1061 CABA",Palermo
+Milk,51,Carrefour,"Carrefour Market, Av. Santa Fe 1954, C1123 CABA, Argentina",Palermo
+Milk,46,Supermercados Día,"Carrefour Market, Vicente López 1676, C1018 ABB, Buenos Aires, Argentina",Palermo
+Milk,60,Jumbo,"Supermercados Día, Fitz Roy 2292, C1425 FVD, Buenos Aires, Argentina",Almagro
+Milk,40.25,Supermercados Día,"Av. Acoyte 702, C1405 BGS, Buenos Aires",Palermo
+Milk,45,Supermercados Día,"Supermercados Día, Av. Rivadavia 3566, C1204 AAN, Buenos Aires, Argentina",
+Milk,45.77,Carrefour,"Av. Gaona 1290, Buenos Aires",Retiro
+Milk,49.99,Supermercados Día,"Carrefour Market, Av. Córdoba 1631, C1055 CABA, Argentina",Villa Crespo
+Milk,70,Supermercados Día,"Supermercados Día, Av. Rivadavia 674, C1002 AAR, Buenos Aires, Argentina",Zhonghe District
+Milk,70,Carrefour,"Supermercados Día, Buenos Aires, Raúl Scalabrini Ortíz 3170, C1425 DBZ, Argentina",Wanhua District
+Milk,69,Carrefour,"Carrefour Market, Raúl Scalabrini Ortíz 3128, C1425 CABA, Argentina",Zhonghe District
+Milk,65,Jumbo,"Av. Córdoba 2529, C1120 CABA",Zhonghe District
+Milk,52.5,Supermercados Día,"Av. Gral. Las Heras 2564, C1425ASP CABA",Yonghe Distric
+Milk,52.5,Supermercados Día,"Supermercados Día, Av. Rivadavia 1177, C1033 AAB, Buenos Aires, Argentina",Almagro
+Milk,69,Carrefour,"Supermercados Día, C1426AJS AJS, Amenábar 1145, C1426 Buenos Aires, Argentina",Retiro
+Milk,122,Supermercados Día,"Carrefour Market, Av. Rivadavia 3221, C1179 CABA, Argentina",Recoleta 
+Milk,65,Jumbo,"Supermercados Día, Junín 638, C1026 ABN, Buenos Aires, Argentina",Retiro
+Milk,66,Carrefour,"Jumba, Av. Cerviño 4860, C1425 AIO, Buenos Aires, Argentina",Palermo
+Milk,40.25,Carrefour,"Carrefour Market, Av. Rivadavia 2243, C1034 CABA, Argentina",Caballito 
+Milk,65,Carrefour,"Av. Santa Fe 3368, C1425 CABA",Almagro
+Milk,51.9,Carrefour,"Carrefour Market, Raúl Scalabrini Ortíz 1840, C1414 CABA, Argentina",Caballito 
+Milk,40.25,Supermercados Día,"Carrefour Market, Av. Corrientes 1160, 1043 CABA, Argentina",Retiro
+Milk,60,Jumbo,"Supermercados Día, Av. Corrientes 3534, C1194 AAO, Buenos Aires, Argentina",Monserrat
+Milk,65,Jumbo,"Jumbo, Av. Santa Fe 4950, C1425 BHY, Buenos Aires, Argentina",Palermo
+Milk,45.99,Supermercados Día,"Jumbo, Guardia Vieja 4558, C1192 CABA, Argentina",Palermo
+Milk,52.99,Supermercados Día,"Supermercados Día, Buenos Aires, Paraguay 788, C1057 AAJ, Argentina",Recoleta 
+Milk,316,Carrefour,"Supermercados Día, Buenos Aires, Defensa 748, C1065 AAN, Argentina",Recoleta 
+Milk,16.84,Carrefour,"235, New Taipei City, Zhonghe District, Section 2, Zhongshan Road, 295號B1",Monserrat
+Milk,322,Carrefour,"Carrefour, No. 1, Guilin Road, Wanhua District, Taipei City, Taiwan 108",Colegiales
+Milk,170,Carrefour,"Carrefour, 100, Taiwan, Taipei City, Zhongzheng District, Section 2, Jinan Road, 46號B1",Almagro
+Milk,198,Carrefour,"Carrefour, No. 276號, Jinzhou Street, Zhongshan District, Taipei City, Taiwan 10477",Monserrat
+Milk,64.99,Supermercados Día,"Carrefour, No. 499-1, Zhonghe Road, Yonghe District, New Taipei City, Taiwan 234",Palermo
+Milk,,,"Sarmiento 3978, C1425 FGQ, Argentina",Monserrat
+Milk,65,Jumbo,,Palermo
+Milk,66,Carrefour,"Arenales 870, C1061 CABA",Palermo
+Milk,65,Carrefour,"Carrefour Market, Av. Santa Fe 1954, C1123 CABA, Argentina",Palermo
+Milk,,Supermercados Día,"Carrefour Market, Vicente López 1676, C1018 ABB, Buenos Aires, Argentina",Almagro
+Milk,45,Jumbo,"Supermercados Día, Fitz Roy 2292, C1425 FVD, Buenos Aires, Argentina",Palermo
+Milk,44.29,Supermercados Día,"Av. Acoyte 702, C1405 BGS, Buenos Aires",
+Milk,29,Supermercados Día,"Supermercados Día, Av. Rivadavia 3566, C1204 AAN, Buenos Aires, Argentina",Retiro
+Milk,51.99,Carrefour,"Av. Gaona 1290, Buenos Aires",Villa Crespo
+Milk,68.99,Supermercados Día,"Carrefour Market, Av. Córdoba 1631, C1055 CABA, Argentina",Zhonghe District
+Milk,49,Supermercados Día,"Supermercados Día, Av. Rivadavia 674, C1002 AAR, Buenos Aires, Argentina",Wanhua District
+Milk,49,Carrefour,"Supermercados Día, Buenos Aires, Raúl Scalabrini Ortíz 3170, C1425 DBZ, Argentina",Zhonghe District
+Milk,59,Carrefour,"Carrefour Market, Raúl Scalabrini Ortíz 3128, C1425 CABA, Argentina",Zhonghe District
+Milk,73,Jumbo,"Av. Córdoba 2529, C1120 CABA",Yonghe Distric
+Milk,40.3,Supermercados Día,"Av. Gral. Las Heras 2564, C1425ASP CABA",Almagro
+Milk,40.3,Supermercados Día,"Supermercados Día, Av. Rivadavia 1177, C1033 AAB, Buenos Aires, Argentina",Retiro
+Milk,49.9,Carrefour,"Supermercados Día, C1426AJS AJS, Amenábar 1145, C1426 Buenos Aires, Argentina",Recoleta 
+Milk,68.99,Supermercados Día,"Carrefour Market, Av. Rivadavia 3221, C1179 CABA, Argentina",Retiro
+Milk,70,Jumbo,"Supermercados Día, Junín 638, C1026 ABN, Buenos Aires, Argentina",Palermo
+Milk,,Carrefour,"Jumba, Av. Cerviño 4860, C1425 AIO, Buenos Aires, Argentina",Caballito 
+Milk,65,Carrefour,"Carrefour Market, Av. Rivadavia 2243, C1034 CABA, Argentina",Almagro
+Milk,49,Carrefour,"Av. Santa Fe 3368, C1425 CABA",Caballito 
+Milk,218.5,Carrefour,"Carrefour Market, Raúl Scalabrini Ortíz 1840, C1414 CABA, Argentina",Retiro
+Milk,68.99,Supermercados Día,"Carrefour Market, Av. Corrientes 1160, 1043 CABA, Argentina",Monserrat
+Milk,65,Jumbo,"Supermercados Día, Av. Corrientes 3534, C1194 AAO, Buenos Aires, Argentina",Palermo
+Milk,69,Jumbo,"Jumbo, Av. Santa Fe 4950, C1425 BHY, Buenos Aires, Argentina",Palermo
+Milk,31.99,Supermercados Día,"Jumbo, Guardia Vieja 4558, C1192 CABA, Argentina",Recoleta 
+Milk,64.99,Supermercados Día,"Supermercados Día, Buenos Aires, Paraguay 788, C1057 AAJ, Argentina",Recoleta 
+Milk,168,Carrefour,"Supermercados Día, Buenos Aires, Defensa 748, C1065 AAN, Argentina",Monserrat
+Milk,15.14,Carrefour,"235, New Taipei City, Zhonghe District, Section 2, Zhongshan Road, 295號B1",Colegiales
+Milk,458,Carrefour,"Carrefour, No. 1, Guilin Road, Wanhua District, Taipei City, Taiwan 108",Almagro
+Milk,324,Carrefour,"Carrefour, 100, Taiwan, Taipei City, Zhongzheng District, Section 2, Jinan Road, 46號B1",Monserrat
+Milk,168,Carrefour,"Carrefour, No. 276號, Jinzhou Street, Zhongshan District, Taipei City, Taiwan 10477",Palermo
+Milk,52.99,Supermercados Día,"Carrefour, No. 499-1, Zhonghe Road, Yonghe District, New Taipei City, Taiwan 234",Monserrat
+Milk,,,"Sarmiento 3978, C1425 FGQ, Argentina",Palermo
+Milk,67,Jumbo,,Palermo
+Milk,56,Carrefour,"Arenales 870, C1061 CABA",Palermo
+Milk,57,Carrefour,"Carrefour Market, Av. Santa Fe 1954, C1123 CABA, Argentina",Almagro
+Milk,,Supermercados Día,"Carrefour Market, Vicente López 1676, C1018 ABB, Buenos Aires, Argentina",Palermo
+Milk,70,Jumbo,"Supermercados Día, Fitz Roy 2292, C1425 FVD, Buenos Aires, Argentina",
+Milk,44.99,Supermercados Día,"Av. Acoyte 702, C1405 BGS, Buenos Aires",Retiro
+Milk,67,Supermercados Día,"Supermercados Día, Av. Rivadavia 3566, C1204 AAN, Buenos Aires, Argentina",Villa Crespo
+Milk,53.2,Carrefour,"Av. Gaona 1290, Buenos Aires",Zhonghe District
+Milk,53.1,Supermercados Día,"Carrefour Market, Av. Córdoba 1631, C1055 CABA, Argentina",Wanhua District
+Milk,56,Supermercados Día,"Supermercados Día, Av. Rivadavia 674, C1002 AAR, Buenos Aires, Argentina",Zhonghe District
+Milk,56,Carrefour,"Supermercados Día, Buenos Aires, Raúl Scalabrini Ortíz 3170, C1425 DBZ, Argentina",Zhonghe District
+Milk,67,Carrefour,"Carrefour Market, Raúl Scalabrini Ortíz 3128, C1425 CABA, Argentina",Yonghe Distric
+Milk,60,Jumbo,"Av. Córdoba 2529, C1120 CABA",Almagro
+Milk,44.3,Supermercados Día,"Av. Gral. Las Heras 2564, C1425ASP CABA",Retiro
+Milk,44.3,Supermercados Día,"Supermercados Día, Av. Rivadavia 1177, C1033 AAB, Buenos Aires, Argentina",Recoleta 
+Milk,45,Carrefour,"Supermercados Día, C1426AJS AJS, Amenábar 1145, C1426 Buenos Aires, Argentina",Retiro
+Milk,52.4,Supermercados Día,"Carrefour Market, Av. Rivadavia 3221, C1179 CABA, Argentina",Palermo
+Milk,,Jumbo,"Supermercados Día, Junín 638, C1026 ABN, Buenos Aires, Argentina",Caballito 
+Milk,,Carrefour,"Jumba, Av. Cerviño 4860, C1425 AIO, Buenos Aires, Argentina",Almagro
+Milk,71,Carrefour,"Carrefour Market, Av. Rivadavia 2243, C1034 CABA, Argentina",Caballito 
+Milk,,Carrefour,"Av. Santa Fe 3368, C1425 CABA",Retiro
+Butter,545,Carrefour,"Carrefour Market, Raúl Scalabrini Ortíz 1840, C1414 CABA, Argentina",Monserrat
+Butter,489.98,Supermercados Día,"Carrefour Market, Av. Corrientes 1160, 1043 CABA, Argentina",Palermo
+Butter,125,Jumbo,"Supermercados Día, Av. Corrientes 3534, C1194 AAO, Buenos Aires, Argentina",Palermo
+Butter,69,Jumbo,"Jumbo, Av. Santa Fe 4950, C1425 BHY, Buenos Aires, Argentina",Recoleta 
+Butter,93.99,Supermercados Día,"Jumbo, Guardia Vieja 4558, C1192 CABA, Argentina",Recoleta 
+Butter,504.95,Supermercados Día,"Supermercados Día, Buenos Aires, Paraguay 788, C1057 AAJ, Argentina",Monserrat
+Butter,210,Carrefour,"Supermercados Día, Buenos Aires, Defensa 748, C1065 AAN, Argentina",Colegiales
+Butter,105,Carrefour,"235, New Taipei City, Zhonghe District, Section 2, Zhongshan Road, 295號B1",Almagro
+Butter,370,Carrefour,"Carrefour, No. 1, Guilin Road, Wanhua District, Taipei City, Taiwan 108",Monserrat
+Butter,310,Carrefour,"Carrefour, 100, Taiwan, Taipei City, Zhongzheng District, Section 2, Jinan Road, 46號B1",Palermo
+Butter,220,Carrefour,"Carrefour, No. 276號, Jinzhou Street, Zhongshan District, Taipei City, Taiwan 10477",Monserrat
+Butter,599.95,Supermercados Día,"Carrefour, No. 499-1, Zhonghe Road, Yonghe District, New Taipei City, Taiwan 234",Palermo
+Butter,,,"Sarmiento 3978, C1425 FGQ, Argentina",Palermo
+Butter,750,Jumbo,,Palermo
+Butter,105,Carrefour,"Arenales 870, C1061 CABA",Almagro
+Butter,71,Carrefour,"Carrefour Market, Av. Santa Fe 1954, C1123 CABA, Argentina",Palermo
+Butter,,Supermercados Día,"Carrefour Market, Vicente López 1676, C1018 ABB, Buenos Aires, Argentina",
+Butter,125.9,Jumbo,"Supermercados Día, Fitz Roy 2292, C1425 FVD, Buenos Aires, Argentina",Retiro
+Butter,53.29,Supermercados Día,"Av. Acoyte 702, C1405 BGS, Buenos Aires",Villa Crespo
+Butter,139,Supermercados Día,"Supermercados Día, Av. Rivadavia 3566, C1204 AAN, Buenos Aires, Argentina",Zhonghe District
+Butter,505,Carrefour,"Av. Gaona 1290, Buenos Aires",Wanhua District
+Butter,589.94,Supermercados Día,"Carrefour Market, Av. Córdoba 1631, C1055 CABA, Argentina",Zhonghe District
+Butter,495,Supermercados Día,"Supermercados Día, Av. Rivadavia 674, C1002 AAR, Buenos Aires, Argentina",Zhonghe District
+Butter,107,Carrefour,"Supermercados Día, Buenos Aires, Raúl Scalabrini Ortíz 3170, C1425 DBZ, Argentina",Yonghe Distric
+Butter,620,Carrefour,"Carrefour Market, Raúl Scalabrini Ortíz 3128, C1425 CABA, Argentina",Almagro
+Butter,545,Jumbo,"Av. Córdoba 2529, C1120 CABA",Retiro
+Butter,750,Supermercados Día,"Av. Gral. Las Heras 2564, C1425ASP CABA",Recoleta 
+Butter,740,Supermercados Día,"Supermercados Día, Av. Rivadavia 1177, C1033 AAB, Buenos Aires, Argentina",Retiro
+Butter,101,Carrefour,"Supermercados Día, C1426AJS AJS, Amenábar 1145, C1426 Buenos Aires, Argentina",Palermo
+Butter,495,Supermercados Día,"Carrefour Market, Av. Rivadavia 3221, C1179 CABA, Argentina",Caballito 
+Butter,650,Jumbo,"Supermercados Día, Junín 638, C1026 ABN, Buenos Aires, Argentina",Almagro
+Butter,,Carrefour,"Jumba, Av. Cerviño 4860, C1425 AIO, Buenos Aires, Argentina",Caballito 
+Butter,121,Carrefour,"Carrefour Market, Av. Rivadavia 2243, C1034 CABA, Argentina",Retiro
+Butter,76,Carrefour,"Av. Santa Fe 3368, C1425 CABA",Monserrat
+Butter,525,Carrefour,"Carrefour Market, Raúl Scalabrini Ortíz 1840, C1414 CABA, Argentina",Palermo
+Butter,497.45,Supermercados Día,"Carrefour Market, Av. Corrientes 1160, 1043 CABA, Argentina",Palermo
+Butter,130,Jumbo,"Supermercados Día, Av. Corrientes 3534, C1194 AAO, Buenos Aires, Argentina",Recoleta 
+Butter,124.7,Jumbo,"Jumbo, Av. Santa Fe 4950, C1425 BHY, Buenos Aires, Argentina",Recoleta 
+Butter,74.99,Supermercados Día,"Jumbo, Guardia Vieja 4558, C1192 CABA, Argentina",Monserrat
+Butter,526.9,Supermercados Día,"Supermercados Día, Buenos Aires, Paraguay 788, C1057 AAJ, Argentina",Colegiales
+Butter,304,Carrefour,"Supermercados Día, Buenos Aires, Defensa 748, C1065 AAN, Argentina",Almagro
+Butter,82,Carrefour,"235, New Taipei City, Zhonghe District, Section 2, Zhongshan Road, 295號B1",Monserrat
+Butter,100,Carrefour,"Carrefour, No. 1, Guilin Road, Wanhua District, Taipei City, Taiwan 108",Palermo
+Butter,370,Carrefour,"Carrefour, 100, Taiwan, Taipei City, Zhongzheng District, Section 2, Jinan Road, 46號B1",Monserrat
+Butter,310,Carrefour,"Carrefour, No. 276號, Jinzhou Street, Zhongshan District, Taipei City, Taiwan 10477",Palermo
+Butter,532.9,Supermercados Día,"Carrefour, No. 499-1, Zhonghe Road, Yonghe District, New Taipei City, Taiwan 234",Palermo
+Butter,,,"Sarmiento 3978, C1425 FGQ, Argentina",Palermo
+Butter,525,Jumbo,,Almagro
+Butter,109,Carrefour,"Arenales 870, C1061 CABA",Palermo
+Butter,56,Carrefour,"Carrefour Market, Av. Santa Fe 1954, C1123 CABA, Argentina",
+Butter,,Supermercados Día,"Carrefour Market, Vicente López 1676, C1018 ABB, Buenos Aires, Argentina",Retiro
+Butter,90,Jumbo,"Supermercados Día, Fitz Roy 2292, C1425 FVD, Buenos Aires, Argentina",Villa Crespo
+Butter,99.69,Supermercados Día,"Av. Acoyte 702, C1405 BGS, Buenos Aires",Zhonghe District
+Butter,175,Supermercados Día,"Supermercados Día, Av. Rivadavia 3566, C1204 AAN, Buenos Aires, Argentina",Wanhua District
+Butter,605.34,Carrefour,"Av. Gaona 1290, Buenos Aires",Zhonghe District
+Butter,532.9,Supermercados Día,"Carrefour Market, Av. Córdoba 1631, C1055 CABA, Argentina",Zhonghe District
+Butter,750,Supermercados Día,"Supermercados Día, Av. Rivadavia 674, C1002 AAR, Buenos Aires, Argentina",Yonghe Distric
+Butter,94,Carrefour,"Supermercados Día, Buenos Aires, Raúl Scalabrini Ortíz 3170, C1425 DBZ, Argentina",Almagro
+Butter,470,Carrefour,"Carrefour Market, Raúl Scalabrini Ortíz 3128, C1425 CABA, Argentina",Retiro
+Butter,623,Jumbo,"Av. Córdoba 2529, C1120 CABA",Recoleta 
+Butter,623.45,Supermercados Día,"Av. Gral. Las Heras 2564, C1425ASP CABA",Retiro
+Butter,620,Supermercados Día,"Supermercados Día, Av. Rivadavia 1177, C1033 AAB, Buenos Aires, Argentina",Palermo
+Butter,94,Carrefour,"Supermercados Día, C1426AJS AJS, Amenábar 1145, C1426 Buenos Aires, Argentina",Caballito 
+Butter,85,Supermercados Día,"Carrefour Market, Av. Rivadavia 3221, C1179 CABA, Argentina",Almagro
+Butter,570,Jumbo,"Supermercados Día, Junín 638, C1026 ABN, Buenos Aires, Argentina",Caballito 
+Butter,,Carrefour,"Jumba, Av. Cerviño 4860, C1425 AIO, Buenos Aires, Argentina",Retiro
+Butter,167,Carrefour,"Carrefour Market, Av. Rivadavia 2243, C1034 CABA, Argentina",Monserrat
+Butter,94,Carrefour,"Av. Santa Fe 3368, C1425 CABA",Palermo
+Butter,680,Carrefour,"Carrefour Market, Raúl Scalabrini Ortíz 1840, C1414 CABA, Argentina",Palermo
+Butter,532.9,Supermercados Día,"Carrefour Market, Av. Corrientes 1160, 1043 CABA, Argentina",Recoleta 
+Butter,94,Jumbo,"Supermercados Día, Av. Corrientes 3534, C1194 AAO, Buenos Aires, Argentina",Recoleta 
+Butter,130,Jumbo,"Jumbo, Av. Santa Fe 4950, C1425 BHY, Buenos Aires, Argentina",Monserrat
+Butter,69,Supermercados Día,"Jumbo, Guardia Vieja 4558, C1192 CABA, Argentina",Colegiales
+Butter,498.45,Supermercados Día,"Supermercados Día, Buenos Aires, Paraguay 788, C1057 AAJ, Argentina",Almagro
+Butter,372,Carrefour,"Supermercados Día, Buenos Aires, Defensa 748, C1065 AAN, Argentina",Monserrat
+Butter,100,Carrefour,"235, New Taipei City, Zhonghe District, Section 2, Zhongshan Road, 295號B1",Palermo
+Butter,136,Carrefour,"Carrefour, No. 1, Guilin Road, Wanhua District, Taipei City, Taiwan 108",Monserrat
+Butter,,Carrefour,"Carrefour, 100, Taiwan, Taipei City, Zhongzheng District, Section 2, Jinan Road, 46號B1",Palermo
+Butter,370,Carrefour,"Carrefour, No. 276號, Jinzhou Street, Zhongshan District, Taipei City, Taiwan 10477",Palermo
+Butter,690,Supermercados Día,"Carrefour, No. 499-1, Zhonghe Road, Yonghe District, New Taipei City, Taiwan 234",Palermo
+Butter,,,"Sarmiento 3978, C1425 FGQ, Argentina",Almagro
+Butter,650,Jumbo,,Palermo
+Butter,101,Carrefour,"Arenales 870, C1061 CABA",
+Butter,69,Carrefour,"Carrefour Market, Av. Santa Fe 1954, C1123 CABA, Argentina",Retiro
+Butter,,Supermercados Día,"Carrefour Market, Vicente López 1676, C1018 ABB, Buenos Aires, Argentina",Villa Crespo
+Butter,172,Jumbo,"Supermercados Día, Fitz Roy 2292, C1425 FVD, Buenos Aires, Argentina",Zhonghe District
+Butter,74.99,Supermercados Día,"Av. Acoyte 702, C1405 BGS, Buenos Aires",Wanhua District
+Butter,153,Supermercados Día,"Supermercados Día, Av. Rivadavia 3566, C1204 AAN, Buenos Aires, Argentina",Zhonghe District
+Butter,634.4,Carrefour,"Av. Gaona 1290, Buenos Aires",Zhonghe District
+Butter,548.41,Supermercados Día,"Carrefour Market, Av. Córdoba 1631, C1055 CABA, Argentina",Yonghe Distric
+Butter,535,Supermercados Día,"Supermercados Día, Av. Rivadavia 674, C1002 AAR, Buenos Aires, Argentina",Almagro
+Butter,495,Carrefour,"Supermercados Día, Buenos Aires, Raúl Scalabrini Ortíz 3170, C1425 DBZ, Argentina",Retiro
+Butter,835,Carrefour,"Carrefour Market, Raúl Scalabrini Ortíz 3128, C1425 CABA, Argentina",Recoleta 
+Butter,650,Jumbo,"Av. Córdoba 2529, C1120 CABA",Retiro
+Butter,,Supermercados Día,"Av. Gral. Las Heras 2564, C1425ASP CABA",Palermo
+Butter,640.6,Supermercados Día,"Supermercados Día, Av. Rivadavia 1177, C1033 AAB, Buenos Aires, Argentina",Caballito 
+Butter,167,Carrefour,"Supermercados Día, C1426AJS AJS, Amenábar 1145, C1426 Buenos Aires, Argentina",Almagro
+Butter,220,Supermercados Día,"Carrefour Market, Av. Rivadavia 3221, C1179 CABA, Argentina",Caballito 
+Butter,,Jumbo,"Supermercados Día, Junín 638, C1026 ABN, Buenos Aires, Argentina",Retiro
+Butter,,Carrefour,"Jumba, Av. Cerviño 4860, C1425 AIO, Buenos Aires, Argentina",Monserrat
+Butter,124,Carrefour,"Carrefour Market, Av. Rivadavia 2243, C1034 CABA, Argentina",Palermo
+Butter,105,Carrefour,"Av. Santa Fe 3368, C1425 CABA",Palermo
+Eggs,9.83,Carrefour,"Carrefour Market, Raúl Scalabrini Ortíz 1840, C1414 CABA, Argentina",Recoleta 
+Eggs,9.83,Supermercados Día,"Carrefour Market, Av. Corrientes 1160, 1043 CABA, Argentina",Recoleta 
+Eggs,92.9,Jumbo,"Supermercados Día, Av. Corrientes 3534, C1194 AAO, Buenos Aires, Argentina",Monserrat
+Eggs,185,Jumbo,"Jumbo, Av. Santa Fe 4950, C1425 BHY, Buenos Aires, Argentina",Colegiales
+Eggs,67.99,Supermercados Día,"Jumbo, Guardia Vieja 4558, C1192 CABA, Argentina",Almagro
+Eggs,109.99,Supermercados Día,"Supermercados Día, Buenos Aires, Paraguay 788, C1057 AAJ, Argentina",Monserrat
+Eggs,144,Carrefour,"Supermercados Día, Buenos Aires, Defensa 748, C1065 AAN, Argentina",Palermo
+Eggs,150,Carrefour,"235, New Taipei City, Zhonghe District, Section 2, Zhongshan Road, 295號B1",Monserrat
+Eggs,150,Carrefour,"Carrefour, No. 1, Guilin Road, Wanhua District, Taipei City, Taiwan 108",Palermo
+Eggs,270,Carrefour,"Carrefour, 100, Taiwan, Taipei City, Zhongzheng District, Section 2, Jinan Road, 46號B1",Palermo
+Eggs,270,Carrefour,"Carrefour, No. 276號, Jinzhou Street, Zhongshan District, Taipei City, Taiwan 10477",Palermo
+Eggs,9.83,Supermercados Día,"Carrefour, No. 499-1, Zhonghe Road, Yonghe District, New Taipei City, Taiwan 234",Almagro
+Eggs,,,"Sarmiento 3978, C1425 FGQ, Argentina",Palermo
+Eggs,9.83,Jumbo,,
+Eggs,75,Carrefour,"Arenales 870, C1061 CABA",Retiro
+Eggs,101,Carrefour,"Carrefour Market, Av. Santa Fe 1954, C1123 CABA, Argentina",Villa Crespo
+Eggs,67,Supermercados Día,"Carrefour Market, Vicente López 1676, C1018 ABB, Buenos Aires, Argentina",Zhonghe District
+Eggs,9.83,Jumbo,"Supermercados Día, Fitz Roy 2292, C1425 FVD, Buenos Aires, Argentina",Wanhua District
+Eggs,73.99,Supermercados Día,"Av. Acoyte 702, C1405 BGS, Buenos Aires",Zhonghe District
+Eggs,14.92,Supermercados Día,"Supermercados Día, Av. Rivadavia 3566, C1204 AAN, Buenos Aires, Argentina",Zhonghe District
+Eggs,9.83,Carrefour,"Av. Gaona 1290, Buenos Aires",Yonghe Distric
+Eggs,12.69,Supermercados Día,"Carrefour Market, Av. Córdoba 1631, C1055 CABA, Argentina",Almagro
+Eggs,79,Supermercados Día,"Supermercados Día, Av. Rivadavia 674, C1002 AAR, Buenos Aires, Argentina",Retiro
+Eggs,54,Carrefour,"Supermercados Día, Buenos Aires, Raúl Scalabrini Ortíz 3170, C1425 DBZ, Argentina",Recoleta 
+Eggs,9.83,Carrefour,"Carrefour Market, Raúl Scalabrini Ortíz 3128, C1425 CABA, Argentina",Retiro
+Eggs,12.91,Jumbo,"Av. Córdoba 2529, C1120 CABA",Palermo
+Eggs,55,Supermercados Día,"Av. Gral. Las Heras 2564, C1425ASP CABA",Caballito 
+Eggs,110,Supermercados Día,"Supermercados Día, Av. Rivadavia 1177, C1033 AAB, Buenos Aires, Argentina",Almagro
+Eggs,101,Carrefour,"Supermercados Día, C1426AJS AJS, Amenábar 1145, C1426 Buenos Aires, Argentina",Caballito 
+Eggs,109.99,Supermercados Día,"Carrefour Market, Av. Rivadavia 3221, C1179 CABA, Argentina",Retiro
+Eggs,199,Jumbo,"Supermercados Día, Junín 638, C1026 ABN, Buenos Aires, Argentina",Monserrat
+Eggs,145,Carrefour,"Jumba, Av. Cerviño 4860, C1425 AIO, Buenos Aires, Argentina",Palermo
+Eggs,60,Carrefour,"Carrefour Market, Av. Rivadavia 2243, C1034 CABA, Argentina",Palermo
+Eggs,67,Carrefour,"Av. Santa Fe 3368, C1425 CABA",Recoleta 
+Eggs,9.17,Carrefour,"Carrefour Market, Raúl Scalabrini Ortíz 1840, C1414 CABA, Argentina",Recoleta 
+Eggs,9.17,Supermercados Día,"Carrefour Market, Av. Corrientes 1160, 1043 CABA, Argentina",Monserrat
+Eggs,59,Jumbo,"Supermercados Día, Av. Corrientes 3534, C1194 AAO, Buenos Aires, Argentina",Colegiales
+Eggs,145,Jumbo,"Jumbo, Av. Santa Fe 4950, C1425 BHY, Buenos Aires, Argentina",Almagro
+Eggs,59,Supermercados Día,"Jumbo, Guardia Vieja 4558, C1192 CABA, Argentina",Monserrat
+Eggs,73.99,Supermercados Día,"Supermercados Día, Buenos Aires, Paraguay 788, C1057 AAJ, Argentina",Palermo
+Eggs,170,Carrefour,"Supermercados Día, Buenos Aires, Defensa 748, C1065 AAN, Argentina",Monserrat
+Eggs,216,Carrefour,"235, New Taipei City, Zhonghe District, Section 2, Zhongshan Road, 295號B1",Palermo
+Eggs,124,Carrefour,"Carrefour, No. 1, Guilin Road, Wanhua District, Taipei City, Taiwan 108",Palermo
+Eggs,238,Carrefour,"Carrefour, 100, Taiwan, Taipei City, Zhongzheng District, Section 2, Jinan Road, 46號B1",Palermo
+Eggs,216,Carrefour,"Carrefour, No. 276號, Jinzhou Street, Zhongshan District, Taipei City, Taiwan 10477",Almagro
+Eggs,9.17,Supermercados Día,"Carrefour, No. 499-1, Zhonghe Road, Yonghe District, New Taipei City, Taiwan 234",Palermo
+Eggs,,,"Sarmiento 3978, C1425 FGQ, Argentina",
+Eggs,13.17,Jumbo,,Retiro
+Eggs,123,Carrefour,"Arenales 870, C1061 CABA",Villa Crespo
+Eggs,139,Carrefour,"Carrefour Market, Av. Santa Fe 1954, C1123 CABA, Argentina",Zhonghe District
+Eggs,110,Supermercados Día,"Carrefour Market, Vicente López 1676, C1018 ABB, Buenos Aires, Argentina",Wanhua District
+Eggs,14.97,Jumbo,"Supermercados Día, Fitz Roy 2292, C1425 FVD, Buenos Aires, Argentina",Zhonghe District
+Eggs,67.99,Supermercados Día,"Av. Acoyte 702, C1405 BGS, Buenos Aires",Zhonghe District
+Eggs,13.15,Supermercados Día,"Supermercados Día, Av. Rivadavia 3566, C1204 AAN, Buenos Aires, Argentina",Yonghe Distric
+Eggs,10.55,Carrefour,"Av. Gaona 1290, Buenos Aires",Almagro
+Eggs,9.83,Supermercados Día,"Carrefour Market, Av. Córdoba 1631, C1055 CABA, Argentina",Retiro
+Eggs,90,Supermercados Día,"Supermercados Día, Av. Rivadavia 674, C1002 AAR, Buenos Aires, Argentina",Recoleta 
+Eggs,65,Carrefour,"Supermercados Día, Buenos Aires, Raúl Scalabrini Ortíz 3170, C1425 DBZ, Argentina",Retiro
+Eggs,11,Carrefour,"Carrefour Market, Raúl Scalabrini Ortíz 3128, C1425 CABA, Argentina",Palermo
+Eggs,14.83,Jumbo,"Av. Córdoba 2529, C1120 CABA",Caballito 
+Eggs,74,Supermercados Día,"Av. Gral. Las Heras 2564, C1425ASP CABA",Almagro
+Eggs,55,Supermercados Día,"Supermercados Día, Av. Rivadavia 1177, C1033 AAB, Buenos Aires, Argentina",Caballito 
+Eggs,123,Carrefour,"Supermercados Día, C1426AJS AJS, Amenábar 1145, C1426 Buenos Aires, Argentina",Retiro
+Eggs,67.99,Supermercados Día,"Carrefour Market, Av. Rivadavia 3221, C1179 CABA, Argentina",Monserrat
+Eggs,329,Jumbo,"Supermercados Día, Junín 638, C1026 ABN, Buenos Aires, Argentina",Palermo
+Eggs,155,Carrefour,"Jumba, Av. Cerviño 4860, C1425 AIO, Buenos Aires, Argentina",Palermo
+Eggs,104,Carrefour,"Carrefour Market, Av. Rivadavia 2243, C1034 CABA, Argentina",Recoleta 
+Eggs,104,Carrefour,"Av. Santa Fe 3368, C1425 CABA",Recoleta 
+Eggs,10.25,Carrefour,"Carrefour Market, Raúl Scalabrini Ortíz 1840, C1414 CABA, Argentina",Monserrat
+Eggs,11.33,Supermercados Día,"Carrefour Market, Av. Corrientes 1160, 1043 CABA, Argentina",Colegiales
+Eggs,82.9,Jumbo,"Supermercados Día, Av. Corrientes 3534, C1194 AAO, Buenos Aires, Argentina",Almagro
+Eggs,99,Jumbo,"Jumbo, Av. Santa Fe 4950, C1425 BHY, Buenos Aires, Argentina",Monserrat
+Eggs,,Supermercados Día,"Jumbo, Guardia Vieja 4558, C1192 CABA, Argentina",Palermo
+Eggs,,Supermercados Día,"Supermercados Día, Buenos Aires, Paraguay 788, C1057 AAJ, Argentina",Monserrat
+Eggs,170,Carrefour,"Supermercados Día, Buenos Aires, Defensa 748, C1065 AAN, Argentina",Palermo
+Eggs,280,Carrefour,"235, New Taipei City, Zhonghe District, Section 2, Zhongshan Road, 295號B1",Palermo
+Eggs,104,Carrefour,"Carrefour, No. 1, Guilin Road, Wanhua District, Taipei City, Taiwan 108",Palermo
+Eggs,170,Carrefour,"Carrefour, 100, Taiwan, Taipei City, Zhongzheng District, Section 2, Jinan Road, 46號B1",Almagro
+Eggs,270,Carrefour,"Carrefour, No. 276號, Jinzhou Street, Zhongshan District, Taipei City, Taiwan 10477",Palermo
+Eggs,12.33,Supermercados Día,"Carrefour, No. 499-1, Zhonghe Road, Yonghe District, New Taipei City, Taiwan 234",
+Eggs,,,"Sarmiento 3978, C1425 FGQ, Argentina",Retiro
+Eggs,14.02,Jumbo,,Villa Crespo
+Eggs,101,Carrefour,"Arenales 870, C1061 CABA",Zhonghe District
+Eggs,,Carrefour,"Carrefour Market, Av. Santa Fe 1954, C1123 CABA, Argentina",Wanhua District
+Eggs,,Supermercados Día,"Carrefour Market, Vicente López 1676, C1018 ABB, Buenos Aires, Argentina",Zhonghe District
+Eggs,12.3,Jumbo,"Supermercados Día, Fitz Roy 2292, C1425 FVD, Buenos Aires, Argentina",Zhonghe District
+Eggs,59,Supermercados Día,"Av. Acoyte 702, C1405 BGS, Buenos Aires",Yonghe Distric
+Eggs,18.22,Supermercados Día,"Supermercados Día, Av. Rivadavia 3566, C1204 AAN, Buenos Aires, Argentina",Almagro
+Eggs,,Carrefour,"Av. Gaona 1290, Buenos Aires",Retiro
+Eggs,,Supermercados Día,"Carrefour Market, Av. Córdoba 1631, C1055 CABA, Argentina",Recoleta 
+Eggs,169,Supermercados Día,"Supermercados Día, Av. Rivadavia 674, C1002 AAR, Buenos Aires, Argentina",Retiro
+Eggs,,Carrefour,"Supermercados Día, Buenos Aires, Raúl Scalabrini Ortíz 3170, C1425 DBZ, Argentina",Palermo
+Eggs,7.86,Carrefour,"Carrefour Market, Raúl Scalabrini Ortíz 3128, C1425 CABA, Argentina",Caballito 
+Eggs,14.91,Jumbo,"Av. Córdoba 2529, C1120 CABA",Almagro
+Eggs,60,Supermercados Día,"Av. Gral. Las Heras 2564, C1425ASP CABA",Caballito 
+Eggs,,Supermercados Día,"Supermercados Día, Av. Rivadavia 1177, C1033 AAB, Buenos Aires, Argentina",Retiro
+Eggs,304,Carrefour,"Supermercados Día, C1426AJS AJS, Amenábar 1145, C1426 Buenos Aires, Argentina",Monserrat
+Eggs,73.99,Supermercados Día,"Carrefour Market, Av. Rivadavia 3221, C1179 CABA, Argentina",Palermo
+Eggs,179,Jumbo,"Supermercados Día, Junín 638, C1026 ABN, Buenos Aires, Argentina",Palermo
+Eggs,,Carrefour,"Jumba, Av. Cerviño 4860, C1425 AIO, Buenos Aires, Argentina",Recoleta 
+Eggs,80,Carrefour,"Carrefour Market, Av. Rivadavia 2243, C1034 CABA, Argentina",Recoleta 
+Eggs,15,Carrefour,"Av. Santa Fe 3368, C1425 CABA",Monserrat
+Chicken breasts,239.9,Carrefour,"Carrefour Market, Raúl Scalabrini Ortíz 1840, C1414 CABA, Argentina",Colegiales
+Chicken breasts,312.9,Supermercados Día,"Carrefour Market, Av. Corrientes 1160, 1043 CABA, Argentina",Almagro
+Chicken breasts,293.9,Jumbo,"Supermercados Día, Av. Corrientes 3534, C1194 AAO, Buenos Aires, Argentina",Monserrat
+Chicken breasts,372,Jumbo,"Jumbo, Av. Santa Fe 4950, C1425 BHY, Buenos Aires, Argentina",Palermo
+Chicken breasts,,Supermercados Día,"Jumbo, Guardia Vieja 4558, C1192 CABA, Argentina",Monserrat
+Chicken breasts,188.9,Supermercados Día,"Supermercados Día, Buenos Aires, Paraguay 788, C1057 AAJ, Argentina",Palermo
+Chicken breasts,138,Carrefour,"Supermercados Día, Buenos Aires, Defensa 748, C1065 AAN, Argentina",Palermo
+Chicken breasts,398,Carrefour,"235, New Taipei City, Zhonghe District, Section 2, Zhongshan Road, 295號B1",Palermo
+Chicken breasts,138,Carrefour,"Carrefour, No. 1, Guilin Road, Wanhua District, Taipei City, Taiwan 108",Almagro
+Chicken breasts,130,Carrefour,"Carrefour, 100, Taiwan, Taipei City, Zhongzheng District, Section 2, Jinan Road, 46號B1",Palermo
+Chicken breasts,130,Carrefour,"Carrefour, No. 276號, Jinzhou Street, Zhongshan District, Taipei City, Taiwan 10477",
+Chicken breasts,312.9,Supermercados Día,"Carrefour, No. 499-1, Zhonghe Road, Yonghe District, New Taipei City, Taiwan 234",Retiro
+Chicken breasts,,,"Sarmiento 3978, C1425 FGQ, Argentina",Villa Crespo
+Chicken breasts,372,Jumbo,,Zhonghe District
+Chicken breasts,259.9,Carrefour,"Arenales 870, C1061 CABA",Wanhua District
+Chicken breasts,296,Carrefour,"Carrefour Market, Av. Santa Fe 1954, C1123 CABA, Argentina",Zhonghe District
+Chicken breasts,,Supermercados Día,"Carrefour Market, Vicente López 1676, C1018 ABB, Buenos Aires, Argentina",Zhonghe District
+Chicken breasts,372,Jumbo,"Supermercados Día, Fitz Roy 2292, C1425 FVD, Buenos Aires, Argentina",Yonghe Distric
+Chicken breasts,312.9,Supermercados Día,"Av. Acoyte 702, C1405 BGS, Buenos Aires",Almagro
+Chicken breasts,372,Supermercados Día,"Supermercados Día, Av. Rivadavia 3566, C1204 AAN, Buenos Aires, Argentina",Retiro
+Chicken breasts,260.4,Carrefour,"Av. Gaona 1290, Buenos Aires",Recoleta 
+Chicken breasts,339.99,Supermercados Día,"Carrefour Market, Av. Córdoba 1631, C1055 CABA, Argentina",Retiro
+Chicken breasts,244.78,Supermercados Día,"Supermercados Día, Av. Rivadavia 674, C1002 AAR, Buenos Aires, Argentina",Palermo
+Chicken breasts,372,Carrefour,"Supermercados Día, Buenos Aires, Raúl Scalabrini Ortíz 3170, C1425 DBZ, Argentina",Caballito 
+Chicken breasts,259,Carrefour,"Carrefour Market, Raúl Scalabrini Ortíz 3128, C1425 CABA, Argentina",Almagro
+Chicken breasts,372,Jumbo,"Av. Córdoba 2529, C1120 CABA",Caballito 
+Chicken breasts,312.9,Supermercados Día,"Av. Gral. Las Heras 2564, C1425ASP CABA",Retiro
+Chicken breasts,310,Supermercados Día,"Supermercados Día, Av. Rivadavia 1177, C1033 AAB, Buenos Aires, Argentina",Monserrat
+Chicken breasts,229,Carrefour,"Supermercados Día, C1426AJS AJS, Amenábar 1145, C1426 Buenos Aires, Argentina",Palermo
+Chicken breasts,237.23,Supermercados Día,"Carrefour Market, Av. Rivadavia 3221, C1179 CABA, Argentina",Palermo
+Chicken breasts,216,Jumbo,"Supermercados Día, Junín 638, C1026 ABN, Buenos Aires, Argentina",Recoleta 
+Chicken breasts,116,Carrefour,"Jumba, Av. Cerviño 4860, C1425 AIO, Buenos Aires, Argentina",Recoleta 
+Chicken breasts,124.9,Carrefour,"Carrefour Market, Av. Rivadavia 2243, C1034 CABA, Argentina",Monserrat
+Chicken breasts,92.18,Carrefour,"Av. Santa Fe 3368, C1425 CABA",Colegiales
+Chicken breasts,304.9,Carrefour,"Carrefour Market, Raúl Scalabrini Ortíz 1840, C1414 CABA, Argentina",Almagro
+Chicken breasts,,Supermercados Día,"Carrefour Market, Av. Corrientes 1160, 1043 CABA, Argentina",Monserrat
+Chicken breasts,348.9,Jumbo,"Supermercados Día, Av. Corrientes 3534, C1194 AAO, Buenos Aires, Argentina",Palermo
+Chicken breasts,,Jumbo,"Jumbo, Av. Santa Fe 4950, C1425 BHY, Buenos Aires, Argentina",Monserrat
+Chicken breasts,,Supermercados Día,"Jumbo, Guardia Vieja 4558, C1192 CABA, Argentina",Palermo
+Chicken breasts,,Supermercados Día,"Supermercados Día, Buenos Aires, Paraguay 788, C1057 AAJ, Argentina",Palermo
+Chicken breasts,240,Carrefour,"Supermercados Día, Buenos Aires, Defensa 748, C1065 AAN, Argentina",Palermo
+Chicken breasts,380,Carrefour,"235, New Taipei City, Zhonghe District, Section 2, Zhongshan Road, 295號B1",Almagro
+Chicken breasts,150,Carrefour,"Carrefour, No. 1, Guilin Road, Wanhua District, Taipei City, Taiwan 108",Palermo
+Chicken breasts,138,Carrefour,"Carrefour, 100, Taiwan, Taipei City, Zhongzheng District, Section 2, Jinan Road, 46號B1",
+Chicken breasts,138,Carrefour,"Carrefour, No. 276號, Jinzhou Street, Zhongshan District, Taipei City, Taiwan 10477",Retiro
+Chicken breasts,,Supermercados Día,"Carrefour, No. 499-1, Zhonghe Road, Yonghe District, New Taipei City, Taiwan 234",Villa Crespo
+Chicken breasts,,,"Sarmiento 3978, C1425 FGQ, Argentina",Zhonghe District
+Chicken breasts,,Jumbo,,Wanhua District
+Chicken breasts,304.9,Carrefour,"Arenales 870, C1061 CABA",Zhonghe District
+Chicken breasts,204,Carrefour,"Carrefour Market, Av. Santa Fe 1954, C1123 CABA, Argentina",Zhonghe District
+Chicken breasts,,Supermercados Día,"Carrefour Market, Vicente López 1676, C1018 ABB, Buenos Aires, Argentina",Yonghe Distric
+Chicken breasts,401,Jumbo,"Supermercados Día, Fitz Roy 2292, C1425 FVD, Buenos Aires, Argentina",Almagro
+Chicken breasts,,Supermercados Día,"Av. Acoyte 702, C1405 BGS, Buenos Aires",Retiro
+Chicken breasts,369,Supermercados Día,"Supermercados Día, Av. Rivadavia 3566, C1204 AAN, Buenos Aires, Argentina",Recoleta 
+Chicken breasts,277.9,Carrefour,"Av. Gaona 1290, Buenos Aires",Retiro
+Chicken breasts,,Supermercados Día,"Carrefour Market, Av. Córdoba 1631, C1055 CABA, Argentina",Palermo
+Chicken breasts,122.69,Supermercados Día,"Supermercados Día, Av. Rivadavia 674, C1002 AAR, Buenos Aires, Argentina",Caballito 
+Chicken breasts,,Carrefour,"Supermercados Día, Buenos Aires, Raúl Scalabrini Ortíz 3170, C1425 DBZ, Argentina",Almagro
+Chicken breasts,,Carrefour,"Carrefour Market, Raúl Scalabrini Ortíz 3128, C1425 CABA, Argentina",Caballito 
+Chicken breasts,,Jumbo,"Av. Córdoba 2529, C1120 CABA",Retiro
+Chicken breasts,,Supermercados Día,"Av. Gral. Las Heras 2564, C1425ASP CABA",Monserrat
+Chicken breasts,280.5,Supermercados Día,"Supermercados Día, Av. Rivadavia 1177, C1033 AAB, Buenos Aires, Argentina",Palermo
+Chicken breasts,189,Carrefour,"Supermercados Día, C1426AJS AJS, Amenábar 1145, C1426 Buenos Aires, Argentina",Palermo
+Chicken breasts,133.29,Supermercados Día,"Carrefour Market, Av. Rivadavia 3221, C1179 CABA, Argentina",Recoleta 
+Chicken breasts,,Jumbo,"Supermercados Día, Junín 638, C1026 ABN, Buenos Aires, Argentina",Recoleta 
+Chicken breasts,,Carrefour,"Jumba, Av. Cerviño 4860, C1425 AIO, Buenos Aires, Argentina",Monserrat
+Chicken breasts,198.9,Carrefour,"Carrefour Market, Av. Rivadavia 2243, C1034 CABA, Argentina",Colegiales
+Chicken breasts,176.21,Carrefour,"Av. Santa Fe 3368, C1425 CABA",Almagro
+Chicken breasts,,Carrefour,"Carrefour Market, Raúl Scalabrini Ortíz 1840, C1414 CABA, Argentina",Monserrat
+Chicken breasts,,Supermercados Día,"Carrefour Market, Av. Corrientes 1160, 1043 CABA, Argentina",Palermo
+Chicken breasts,,Jumbo,"Supermercados Día, Av. Corrientes 3534, C1194 AAO, Buenos Aires, Argentina",Monserrat
+Chicken breasts,,Jumbo,"Jumbo, Av. Santa Fe 4950, C1425 BHY, Buenos Aires, Argentina",Palermo
+Chicken breasts,,Supermercados Día,"Jumbo, Guardia Vieja 4558, C1192 CABA, Argentina",Palermo
+Chicken breasts,,Supermercados Día,"Supermercados Día, Buenos Aires, Paraguay 788, C1057 AAJ, Argentina",Palermo
+Chicken breasts,380,Carrefour,"Supermercados Día, Buenos Aires, Defensa 748, C1065 AAN, Argentina",Almagro
+Chicken breasts,540,Carrefour,"235, New Taipei City, Zhonghe District, Section 2, Zhongshan Road, 295號B1",Palermo
+Chicken breasts,176,Carrefour,"Carrefour, No. 1, Guilin Road, Wanhua District, Taipei City, Taiwan 108",
+Chicken breasts,138,Carrefour,"Carrefour, 100, Taiwan, Taipei City, Zhongzheng District, Section 2, Jinan Road, 46號B1",Retiro
+Chicken breasts,176,Carrefour,"Carrefour, No. 276號, Jinzhou Street, Zhongshan District, Taipei City, Taiwan 10477",Villa Crespo
+Chicken breasts,,Supermercados Día,"Carrefour, No. 499-1, Zhonghe Road, Yonghe District, New Taipei City, Taiwan 234",Zhonghe District
+Chicken breasts,,,"Sarmiento 3978, C1425 FGQ, Argentina",Wanhua District
+Chicken breasts,,Jumbo,,Zhonghe District
+Chicken breasts,,Carrefour,"Arenales 870, C1061 CABA",Zhonghe District
+Chicken breasts,240,Carrefour,"Carrefour Market, Av. Santa Fe 1954, C1123 CABA, Argentina",Yonghe Distric
+Chicken breasts,,Supermercados Día,"Carrefour Market, Vicente López 1676, C1018 ABB, Buenos Aires, Argentina",Almagro
+Chicken breasts,345,Jumbo,"Supermercados Día, Fitz Roy 2292, C1425 FVD, Buenos Aires, Argentina",Retiro
+Chicken breasts,,Supermercados Día,"Av. Acoyte 702, C1405 BGS, Buenos Aires",Recoleta 
+Chicken breasts,389,Supermercados Día,"Supermercados Día, Av. Rivadavia 3566, C1204 AAN, Buenos Aires, Argentina",Retiro
+Chicken breasts,,Carrefour,"Av. Gaona 1290, Buenos Aires",Palermo
+Chicken breasts,,Supermercados Día,"Carrefour Market, Av. Córdoba 1631, C1055 CABA, Argentina",Caballito 
+Chicken breasts,256.5,Supermercados Día,"Supermercados Día, Av. Rivadavia 674, C1002 AAR, Buenos Aires, Argentina",Almagro
+Chicken breasts,,Carrefour,"Supermercados Día, Buenos Aires, Raúl Scalabrini Ortíz 3170, C1425 DBZ, Argentina",Caballito 
+Chicken breasts,,Carrefour,"Carrefour Market, Raúl Scalabrini Ortíz 3128, C1425 CABA, Argentina",Retiro
+Chicken breasts,,Jumbo,"Av. Córdoba 2529, C1120 CABA",Monserrat
+Chicken breasts,,Supermercados Día,"Av. Gral. Las Heras 2564, C1425ASP CABA",Palermo
+Chicken breasts,,Supermercados Día,"Supermercados Día, Av. Rivadavia 1177, C1033 AAB, Buenos Aires, Argentina",Palermo
+Chicken breasts,247.9,Carrefour,"Supermercados Día, C1426AJS AJS, Amenábar 1145, C1426 Buenos Aires, Argentina",Recoleta 
+Chicken breasts,126.5,Supermercados Día,"Carrefour Market, Av. Rivadavia 3221, C1179 CABA, Argentina",Recoleta 
+Chicken breasts,,Jumbo,"Supermercados Día, Junín 638, C1026 ABN, Buenos Aires, Argentina",Monserrat
+Chicken breasts,,Carrefour,"Jumba, Av. Cerviño 4860, C1425 AIO, Buenos Aires, Argentina",Colegiales
+Chicken breasts,264.9,Carrefour,"Carrefour Market, Av. Rivadavia 2243, C1034 CABA, Argentina",Almagro
+Chicken breasts,78.78,Carrefour,"Av. Santa Fe 3368, C1425 CABA",Monserrat
